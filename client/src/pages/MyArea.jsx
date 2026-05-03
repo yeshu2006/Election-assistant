@@ -155,7 +155,11 @@ const MyArea = () => {
                       <Button 
                         variant="outlined" 
                         startIcon={<OpenInNew />}
-                        onClick={() => openInMaps(booth.latitude, booth.longitude)}
+                        onClick={() => {
+                          const lat = booth.location?.coordinates?.[1];
+                          const lng = booth.location?.coordinates?.[0];
+                          if (lat && lng) openInMaps(lat, lng);
+                        }}
                         sx={{ borderRadius: 0, fontWeight: 800, textTransform: 'none' }}
                       >
                         View on Maps

@@ -6,9 +6,13 @@ const fs = require('fs');
 const path = require('path');
 require('dotenv').config();
 
-const db = require('./models/boothDb');
+const connectDB = require('./config/db');
+const Booth = require('./models/Booth');
+
+// Connect to MongoDB
+connectDB();
 const { getChatResponse, verifyClaim } = require('./services/geminiService');
-const { getLocalChatResponse } = require('./services/localChatService');
+const { getLocalChatResponse, getLocalVerifyClaim } = require('./services/localChatService');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -25,8 +29,14 @@ app.use(morgan('dev'));
 app.post('/api/chat', async (req, res) => {
   try {
     const { message, history } = req.body;
-    // Use Gemini API for "pro" responses
-    const response = await getChatResponse(message, history);
+    let response;
+    try {
+      // Use Gemini API for "pro" responses
+      response = await getChatResponse(message, history);
+    } catch (geminiError) {
+      console.error('Gemini Error, falling back to local:', geminiError.message);
+      response = await getLocalChatResponse(message, history);
+    }
     res.json({ response });
   } catch (error) {
     console.error('Chat Error:', error);
@@ -38,7 +48,13 @@ app.post('/api/chat', async (req, res) => {
 app.post('/api/verify', async (req, res) => {
   try {
     const { claim } = req.body;
-    const result = await verifyClaim(claim);
+    let result;
+    try {
+      result = await verifyClaim(claim);
+    } catch (geminiError) {
+      console.error('Gemini Error for FakeNews, falling back to local:', geminiError.message);
+      result = await getLocalVerifyClaim(claim);
+    }
     res.json(result);
   } catch (error) {
     console.error('Verify Error:', error);
@@ -47,29 +63,30 @@ app.post('/api/verify', async (req, res) => {
 });
 
 // Polling Booths Endpoint (Search by lat/lng or AC)
-app.get('/api/booths', (req, res) => {
+app.get('/api/booths', async (req, res) => {
   const { lat, lng, ac, limit = 10 } = req.query;
   
   try {
-    let query, params;
+    let booths = [];
     if (lat && lng) {
-      // Find nearest booths using a simple distance square (for local SQLite, this is fine)
-      query = `
-        SELECT *, 
-        ((latitude - ?) * (latitude - ?) + (longitude - ?) * (longitude - ?)) as distance
-        FROM booths 
-        ORDER BY distance ASC 
-        LIMIT ?
-      `;
-      params = [lat, lat, lng, lng, limit];
+      // Use MongoDB's native $near Geospatial query for extreme performance
+      booths = await Booth.find({
+        location: {
+          $near: {
+            $geometry: {
+              type: "Point",
+              coordinates: [parseFloat(lng), parseFloat(lat)] // MongoDB expects [longitude, latitude]
+            }
+          }
+        }
+      }).limit(parseInt(limit));
     } else if (ac) {
-      query = `SELECT * FROM booths WHERE ac LIKE ? LIMIT ?`;
-      params = [`%${ac}%`, limit];
+      // Case-insensitive regex search for AC name
+      booths = await Booth.find({ ac: new RegExp(ac, 'i') }).limit(parseInt(limit));
     } else {
       return res.status(400).json({ error: 'Provide lat/lng or ac' });
     }
 
-    const booths = db.prepare(query).all(...params);
     res.json(booths);
   } catch (error) {
     console.error('Booths Error:', error);

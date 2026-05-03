@@ -1,60 +1,82 @@
 const fs = require('fs');
 const path = require('path');
 const csv = require('csv-parser');
-const db = require('../models/boothDb');
+const mongoose = require('mongoose');
+require('dotenv').config({ path: path.resolve(__dirname, '../.env') });
+const Booth = require('../models/Booth');
 
 const csvPath = path.resolve(__dirname, '../../POOILING DATA.csv');
 
 async function importData() {
-  console.log('Starting import from:', csvPath);
-  
-  const insert = db.prepare(`
-    INSERT INTO booths (state, district, ac, latitude, longitude, ps_number, ps_name, web_url)
-    VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-  `);
+  if (!process.env.MONGODB_URI) {
+    console.error('ERROR: MONGODB_URI is not defined in .env');
+    process.exit(1);
+  }
 
-  const insertMany = db.transaction((rows) => {
-    for (const row of rows) {
-      insert.run(
-        row.State,
-        row.District,
-        row.AC,
-        parseFloat(row.Latitude) || 0,
-        parseFloat(row.Longitude) || 0,
-        row.PSNumber,
-        row.PSName,
-        row.WebURL
-      );
-    }
-  });
+  try {
+    await mongoose.connect(process.env.MONGODB_URI);
+    console.log('Connected to MongoDB.');
 
-  let count = 0;
-  let buffer = [];
-  const BATCH_SIZE = 1000;
+    // Optional: Clear existing data before import to avoid duplicates
+    await Booth.deleteMany({});
+    console.log('Cleared existing booths.');
 
-  fs.createReadStream(csvPath)
-    .pipe(csv())
-    .on('data', (row) => {
-      buffer.push(row);
-      if (buffer.length >= BATCH_SIZE) {
-        insertMany(buffer);
+    console.log('Starting import from:', csvPath);
+
+    let count = 0;
+    let buffer = [];
+    const BATCH_SIZE = 1000;
+
+    const processBuffer = async () => {
+      if (buffer.length > 0) {
+        await Booth.insertMany(buffer, { ordered: false });
         count += buffer.length;
         process.stdout.write(`Imported ${count} rows...\r`);
         buffer = [];
       }
-    })
-    .on('end', () => {
-      if (buffer.length > 0) {
-        insertMany(buffer);
-        count += buffer.length;
+    };
+
+    const stream = fs.createReadStream(csvPath).pipe(csv());
+
+    for await (const row of stream) {
+      const lat = parseFloat(row.Latitude);
+      const lng = parseFloat(row.Longitude);
+
+      // Only add valid coordinates
+      if (!isNaN(lat) && !isNaN(lng)) {
+        buffer.push({
+          state: row.State,
+          district: row.District,
+          ac: row.AC,
+          ps_number: row.PSNumber,
+          ps_name: row.PSName,
+          web_url: row.WebURL,
+          location: {
+            type: 'Point',
+            coordinates: [lng, lat] // GeoJSON expects [longitude, latitude]
+          }
+        });
       }
-      console.log(`\nImport complete. Total rows: ${count}`);
-      process.exit(0);
-    })
-    .on('error', (err) => {
-      console.error('Error during import:', err);
-      process.exit(1);
-    });
+
+      if (buffer.length >= BATCH_SIZE) {
+        // Pause stream to let DB catch up
+        stream.pause();
+        await processBuffer();
+        stream.resume();
+      }
+    }
+
+    // Process remaining buffer
+    await processBuffer();
+
+    console.log(`\nImport complete! Successfully inserted ${count} booths into MongoDB.`);
+    mongoose.disconnect();
+    process.exit(0);
+  } catch (error) {
+    console.error('\nError during import:', error);
+    mongoose.disconnect();
+    process.exit(1);
+  }
 }
 
 importData();

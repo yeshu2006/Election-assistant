@@ -191,7 +191,34 @@ async function getLocalChatResponse(userMessage, history = []) {
   return answer;
 }
 
+async function getLocalVerifyClaim(claim) {
+  await new Promise(resolve => setTimeout(resolve, 600));
+  const lowerClaim = claim.toLowerCase();
+  
+  if (lowerClaim.includes('cancel') || lowerClaim.includes('postpone')) {
+    return {
+      likelihood: "Misleading",
+      confidence: 85,
+      explanation: "The Election Commission rarely cancels voting. Official announcements are always made on eci.gov.in. Please verify this claim."
+    };
+  }
+  if (lowerClaim.includes('evm') && (lowerClaim.includes('hack') || lowerClaim.includes('tamper'))) {
+    return {
+      likelihood: "Misleading",
+      confidence: 90,
+      explanation: "EVMs used by ECI are standalone machines with strict administrative and security protocols, making them highly tamper-resistant."
+    };
+  }
+  
+  return {
+    likelihood: "Needs Verification",
+    confidence: 50,
+    explanation: "This is an offline fallback response. To get deep AI analysis, please configure a valid Gemini API key. In the meantime, verify this claim on official ECI sources."
+  };
+}
+
 module.exports = {
   getLocalChatResponse,
+  getLocalVerifyClaim,
   findBestMatch
 };
