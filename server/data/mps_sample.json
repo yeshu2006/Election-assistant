@@ -1,0 +1,4892 @@
+{
+  "count": 543,
+  "mps": [
+    {
+      "state_or_ut": "Andaman And Nicobar Islands",
+      "name": "Bishnu Pada Ray",
+      "constituency": "ANDAMAN AND NICOBAR ISLANDS",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "G M Harish (Balayogi)",
+      "constituency": "AMALAPURAM (SC)",
+      "party": "TDP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "C.M.Ramesh",
+      "constituency": "ANAKAPALLE",
+      "party": "BJP",
+      "criminal_cases": 5,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Ambica G Lakshminarayana Valmiki",
+      "constituency": "ANANTHAPUR",
+      "party": "TDP",
+      "criminal_cases": 8,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Gumma Thanuja Rani",
+      "constituency": "ARAKU (ST)",
+      "party": "YSRCP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Krishna Prasad Tenneti",
+      "constituency": "BAPATLA (SC)",
+      "party": "TDP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Daggumalla Prasada Rao",
+      "constituency": "CHITTOOR (SC)",
+      "party": "TDP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Putta Mahesh Kumar",
+      "constituency": "ELURU",
+      "party": "TDP",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Dr Chandra Sekhar Pemmasani",
+      "constituency": "GUNTUR",
+      "party": "TDP",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "B K Parthasarathi",
+      "constituency": "HINDUPUR",
+      "party": "TDP",
+      "criminal_cases": 15,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Y. S. Avinash Reddy",
+      "constituency": "KADAPA",
+      "party": "YSRCP",
+      "criminal_cases": 2,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Tangella Uday Srinivas (Tea Time Uday)",
+      "constituency": "KAKINADA",
+      "party": "Janasena Party",
+      "criminal_cases": 1,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Bastipati Nagaraju Panchalingala",
+      "constituency": "KURNOOL",
+      "party": "TDP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Balashowry Vallabhaneni",
+      "constituency": "MACHILIPATNAM",
+      "party": "Janasena Party",
+      "criminal_cases": 2,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Dr Byreddy Shabari",
+      "constituency": "NANDYAL",
+      "party": "TDP",
+      "criminal_cases": 2,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Bhupathi Raju Srinivasa Varma",
+      "constituency": "NARSAPURAM",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Lavu Srikrishna Devarayalu",
+      "constituency": "NARSARAOPET",
+      "party": "TDP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Prabhakar Reddy Vemireddy",
+      "constituency": "NELLORE",
+      "party": "TDP",
+      "criminal_cases": 6,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Magunta Sreenivasulu Reddy",
+      "constituency": "ONGOLE",
+      "party": "TDP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Daggubati Purandheshwari",
+      "constituency": "RAJAHMUNDRY",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "P V Midhun Reddy",
+      "constituency": "RAJAMPET",
+      "party": "YSRCP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Kinjarapu Rammohan Naidu",
+      "constituency": "SRIKAKULAM",
+      "party": "TDP",
+      "criminal_cases": 4,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Gurumoorthy Maddila",
+      "constituency": "THIRUPATHI (SC)",
+      "party": "YSRCP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Kesineni Sivanath (Chinni)",
+      "constituency": "VIJAYAWADA",
+      "party": "TDP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Sribharat Mathukumili",
+      "constituency": "VISAKHAPATNAM",
+      "party": "TDP",
+      "criminal_cases": 2,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Andhra Pradesh",
+      "name": "Appalanaidu Kalisetti",
+      "constituency": "VIZIANAGARAM",
+      "party": "TDP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Arunachal Pradesh",
+      "name": "Tapir Gao",
+      "constituency": "ARUNACHAL EAST",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Arunachal Pradesh",
+      "name": "Kiren Rijiju",
+      "constituency": "ARUNACHAL WEST",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Assam",
+      "name": "Phani Bhusan Choudhury",
+      "constituency": "BARPETA",
+      "party": "Asom Gana Parishad",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Assam",
+      "name": "Dilip Saikia",
+      "constituency": "DARRANG-UDALGURI",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Assam",
+      "name": "Rakibul Hussain",
+      "constituency": "DHUBRI",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Assam",
+      "name": "Sarbananda Sonowal",
+      "constituency": "DIBRUGARH",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Assam",
+      "name": "Amarsing Tisso",
+      "constituency": "DIPHU (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Assam",
+      "name": "Bijuli Kalita Medhi",
+      "constituency": "GUWAHATI",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Assam",
+      "name": "Gaurav Gogoi",
+      "constituency": "JORHAT",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Assam",
+      "name": "Kripanath Mallah",
+      "constituency": "KARIMGANJ",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Assam",
+      "name": "Kamakhya Prasad Tasa",
+      "constituency": "KAZIRANGA",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Assam",
+      "name": "Joyanta Basumatary",
+      "constituency": "KOKRAJHAR (ST)",
+      "party": "United Peoples Party, Liberal",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Assam",
+      "name": "Pradan Baruah",
+      "constituency": "LAKHIMPUR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Assam",
+      "name": "Pradyut Bordoloi",
+      "constituency": "NAGAON",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Assam",
+      "name": "Parimal Suklabaidya",
+      "constituency": "SILCHAR (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Assam",
+      "name": "Ranjit Dutta",
+      "constituency": "SONITPUR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Pradeep Kumar Singh",
+      "constituency": "ARARIA",
+      "party": "BJP",
+      "criminal_cases": 4,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Sudama Prasad",
+      "constituency": "ARRAH",
+      "party": "CPI(ML)(L)",
+      "criminal_cases": 3,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Giridhari Yadav",
+      "constituency": "BANKA",
+      "party": "JD(U)",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Giriraj Singh",
+      "constituency": "BEGUSARAI",
+      "party": "BJP",
+      "criminal_cases": 3,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Ajay Kumar Mandal",
+      "constituency": "BHAGALPUR",
+      "party": "JD(U)",
+      "criminal_cases": 0,
+      "education": "8th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Sudhakar Singh",
+      "constituency": "BUXAR",
+      "party": "RJD",
+      "criminal_cases": 3,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Gopal Jee Thakur",
+      "constituency": "DARBHANGA",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Jitan Ram Manjhi",
+      "constituency": "GAYA (SC)",
+      "party": "Hindustani Awam Morcha (Secular)",
+      "criminal_cases": 6,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Dr. Alok Kumar Suman",
+      "constituency": "GOPALGANJ (SC)",
+      "party": "JD(U)",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Chirag Paswan",
+      "constituency": "HAJIPUR (SC)",
+      "party": "Lok Janshakti Party(Ram Vilas)",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Surendra Prasad Yadav",
+      "constituency": "JAHANABAD",
+      "party": "RJD",
+      "criminal_cases": 7,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Arun Bharti",
+      "constituency": "JAMUI (SC)",
+      "party": "Lok Janshakti Party(Ram Vilas)",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Ramprit Mandal",
+      "constituency": "JHANJHARPUR",
+      "party": "JD(U)",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Raja Ram Singh",
+      "constituency": "KARAKAT",
+      "party": "CPI(ML)(L)",
+      "criminal_cases": 3,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Tariq Anwar",
+      "constituency": "KATIHAR",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Rajesh Verma",
+      "constituency": "KHAGARIA",
+      "party": "Lok Janshakti Party(Ram Vilas)",
+      "criminal_cases": 12,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Mohammad Jawed",
+      "constituency": "KISHANGANJ",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Dinesh Chandra Yadav",
+      "constituency": "MADHEPURA",
+      "party": "JD(U)",
+      "criminal_cases": 0,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Ashok Kumar Yadav",
+      "constituency": "MADHUBANI",
+      "party": "BJP",
+      "criminal_cases": 2,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Rajiv Ranjan Singh Alias Lalan Singh",
+      "constituency": "MUNGER",
+      "party": "JD(U)",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Raj Bhushan Choudhary",
+      "constituency": "MUZAFFARPUR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Kaushalendra Kumar",
+      "constituency": "NALANDA",
+      "party": "JD(U)",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Vivek Thakur",
+      "constituency": "NAWADA",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Dr.Sanjay Jaiswal",
+      "constituency": "PASCHIM CHAMPARAN",
+      "party": "BJP",
+      "criminal_cases": 5,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Misha Bharti",
+      "constituency": "PATALIPUTRA",
+      "party": "RJD",
+      "criminal_cases": 6,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Ravi Shankar Prasad",
+      "constituency": "PATNA SAHIB",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Rajesh Ranjan Alias Pappu Yadav",
+      "constituency": "PURNIA",
+      "party": "IND",
+      "criminal_cases": 41,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Radha Mohan Singh",
+      "constituency": "PURVI CHAMPARAN",
+      "party": "BJP",
+      "criminal_cases": 2,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Shambhavi",
+      "constituency": "SAMASTIPUR (SC)",
+      "party": "Lok Janshakti Party(Ram Vilas)",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Rajiv Pratap Rudy",
+      "constituency": "SARAN",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Manoj Kumar",
+      "constituency": "SASARAM (SC)",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Lovely Anand",
+      "constituency": "SHEOHAR",
+      "party": "JD(U)",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Devesh Chandra Thakur",
+      "constituency": "SITAMARHI",
+      "party": "JD(U)",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Vijaylakshmi Devi",
+      "constituency": "SIWAN",
+      "party": "JD(U)",
+      "criminal_cases": 0,
+      "education": "Literate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Dileshwar Kamait",
+      "constituency": "SUPAUL",
+      "party": "JD(U)",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Nityanand Rai",
+      "constituency": "UJIARPUR",
+      "party": "BJP",
+      "criminal_cases": 3,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Veena Devi",
+      "constituency": "VAISHALI",
+      "party": "Lok Janshakti Party(Ram Vilas)",
+      "criminal_cases": 3,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Bihar",
+      "name": "Sunil Kumar",
+      "constituency": "VALMIKI NAGAR",
+      "party": "JD(U)",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Chandigarh",
+      "name": "Manish Tewari",
+      "constituency": "CHANDIGARH",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Chhattisgarh",
+      "name": "Mahesh Kashyap",
+      "constituency": "BASTAR (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "8th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Chhattisgarh",
+      "name": "Tokhan Sahu",
+      "constituency": "BILASPUR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Chhattisgarh",
+      "name": "Vijay Baghel",
+      "constituency": "DURG",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Chhattisgarh",
+      "name": "Kamlesh Jangde",
+      "constituency": "JANJGIR-CHAMPA (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Chhattisgarh",
+      "name": "Bhojraj Nag",
+      "constituency": "KANKER (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "8th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Chhattisgarh",
+      "name": "Jyotsna Charandas Mahant",
+      "constituency": "KORBA",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Chhattisgarh",
+      "name": "Roop Kumari Choudhary",
+      "constituency": "MAHASAMUND",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Chhattisgarh",
+      "name": "Radheshyam Rathiya",
+      "constituency": "RAIGARH (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Chhattisgarh",
+      "name": "Brijmohan Agrawal",
+      "constituency": "RAIPUR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Chhattisgarh",
+      "name": "Santosh Pandey",
+      "constituency": "RAJNANDGAON",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Chhattisgarh",
+      "name": "Chintamani Maharaj",
+      "constituency": "SURGUJA (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Dadra And Nagar Haveli And Daman And Diu",
+      "name": "Delkar Kalaben Mohanbhai",
+      "constituency": "DADAR & NAGAR HAVELI (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Dadra And Nagar Haveli And Daman And Diu",
+      "name": "Patel Umeshbhai Babubhai",
+      "constituency": "DAMAN & DIU",
+      "party": "IND",
+      "criminal_cases": 14,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Goa",
+      "name": "Shripad Yesso Naik",
+      "constituency": "NORTH GOA",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Goa",
+      "name": "Captain Viriato Fernandes",
+      "constituency": "SOUTH GOA",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Hasmukhbhai Patel (H.S.Patel)",
+      "constituency": "AHMEDABAD EAST",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Dineshbhai Makwana (Advocate)",
+      "constituency": "AHMEDABAD WEST (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Bharatbhai Manubhai Sutariya",
+      "constituency": "AMRELI",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Mitesh Patel (Bakabhai)",
+      "constituency": "ANAND",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Geniben Nagaji Thakor",
+      "constituency": "BANASKANTHA",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Parbhubhai Nagarbhai Vasava",
+      "constituency": "BARDOLI (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Mansukhbhai Dhanjibhai Vasava",
+      "constituency": "BHARUCH",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Nimuben Jayantibhai Bambhaniya (Nimuben Bambhaniya)",
+      "constituency": "BHAVNAGAR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Jashubhai Bhilubhai Rathva",
+      "constituency": "CHHOTA UDAIPUR (ST)",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Jaswantsinh Sumanbhai Bhabhor",
+      "constituency": "DAHOD (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Amit Shah",
+      "constituency": "GANDHINAGAR",
+      "party": "BJP",
+      "criminal_cases": 3,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Poonamben Hematbhai Maadam",
+      "constituency": "JAMNAGAR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Chudasama Rajeshbhai Naranbhai",
+      "constituency": "JUNAGADH",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Chavda Vinod Lakhamshi",
+      "constituency": "KACHCHH (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Devusinh Chauhan",
+      "constituency": "KHEDA",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Haribhai Patel",
+      "constituency": "MAHESANA",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "C R Patil",
+      "constituency": "NAVSARI",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Rajpalsinh Mahendrasinh Jadav",
+      "constituency": "PANCHMAHAL",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Dabhi Bharatsinhji Shankarji",
+      "constituency": "PATAN",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Dr. Mansukh Mandaviya",
+      "constituency": "PORBANDAR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Parshottambhai Rupala",
+      "constituency": "RAJKOT",
+      "party": "BJP",
+      "criminal_cases": 3,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Shobhanaben Mahendrasinh Baraiya",
+      "constituency": "SABARKANTHA",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Mukeshkumar Chandrakaant Dalal",
+      "constituency": "SURAT",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Chandubhai Chhaganbhai Shihora",
+      "constituency": "SURENDRANAGAR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Dr. Hemang Joshi",
+      "constituency": "VADODARA",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Gujarat",
+      "name": "Dhaval Laxmanbhai Patel",
+      "constituency": "VALSAD (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Haryana",
+      "name": "Varun Chaudhry",
+      "constituency": "AMBALA (SC)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Haryana",
+      "name": "Dharambir Singh",
+      "constituency": "BHIWANI-MAHENDRAGARH",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Haryana",
+      "name": "Krishan Pal",
+      "constituency": "FARIDABAD",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Haryana",
+      "name": "Rao Inderjit Singh",
+      "constituency": "GURGAON",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Haryana",
+      "name": "Jai Parkash (J P) S/O Harikesh",
+      "constituency": "HISAR",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Haryana",
+      "name": "Manohar Lal",
+      "constituency": "KARNAL",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Haryana",
+      "name": "Naveen Jindal",
+      "constituency": "KURUKSHETRA",
+      "party": "BJP",
+      "criminal_cases": 9,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Haryana",
+      "name": "Deepender Singh Hooda",
+      "constituency": "ROHTAK",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Haryana",
+      "name": "Selja",
+      "constituency": "SIRSA (SC)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Haryana",
+      "name": "Satpal Brahamchari",
+      "constituency": "SONIPAT",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Himachal Pradesh",
+      "name": "Ajendra Singh Lodhi",
+      "constituency": "HAMIRPUR",
+      "party": "SP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Himachal Pradesh",
+      "name": "Anurag Singh Thakur",
+      "constituency": "HAMIRPUR",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Himachal Pradesh",
+      "name": "Dr Rajeev Bhardwaj",
+      "constituency": "KANGRA",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Himachal Pradesh",
+      "name": "Kangna Ranaut",
+      "constituency": "MANDI",
+      "party": "BJP",
+      "criminal_cases": 8,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Himachal Pradesh",
+      "name": "Suresh Kumar Kashyap",
+      "constituency": "SHIMLA (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jammu And Kashmir",
+      "name": "Mian Altaf Ahmad",
+      "constituency": "ANANTNAG-RAJOURI",
+      "party": "Jammu & Kashmir National Conference",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jammu And Kashmir",
+      "name": "Abdul Rashid Sheikh",
+      "constituency": "BARAMULLA",
+      "party": "IND",
+      "criminal_cases": 3,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jammu And Kashmir",
+      "name": "Jugal Kishore",
+      "constituency": "JAMMU",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jammu And Kashmir",
+      "name": "Aga Syed Ruhullah Mehdi",
+      "constituency": "SRINAGAR",
+      "party": "Jammu & Kashmir National Conference",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jammu And Kashmir",
+      "name": "Dr Jitendra Singh",
+      "constituency": "UDHAMPUR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jharkhand",
+      "name": "Kali Charan Singh",
+      "constituency": "CHATRA",
+      "party": "BJP",
+      "criminal_cases": 2,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jharkhand",
+      "name": "Dulu Mahato",
+      "constituency": "DHANBAD",
+      "party": "BJP",
+      "criminal_cases": 22,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jharkhand",
+      "name": "Nalin Soren",
+      "constituency": "DUMKA (ST)",
+      "party": "JMM",
+      "criminal_cases": 2,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jharkhand",
+      "name": "Chandra Prakash Choudhary",
+      "constituency": "GIRIDIH",
+      "party": "AJSU Party",
+      "criminal_cases": 2,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jharkhand",
+      "name": "Nishikant Dubey",
+      "constituency": "GODDA",
+      "party": "BJP",
+      "criminal_cases": 8,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jharkhand",
+      "name": "Manish Jaiswal",
+      "constituency": "HAZARIBAGH",
+      "party": "BJP",
+      "criminal_cases": 2,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jharkhand",
+      "name": "Bidyut Baran Mahato",
+      "constituency": "JAMSHEDPUR",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jharkhand",
+      "name": "Kali Charan Munda",
+      "constituency": "KHUNTI (ST)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jharkhand",
+      "name": "Annpurna Devi",
+      "constituency": "KODARMA",
+      "party": "BJP",
+      "criminal_cases": 2,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jharkhand",
+      "name": "Sukhdeo Bhagat",
+      "constituency": "LOHARDAGA (ST)",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jharkhand",
+      "name": "Vishnu Dayal Ram",
+      "constituency": "PALAMU (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jharkhand",
+      "name": "Vijay Kumar Hansdak",
+      "constituency": "RAJMAHAL (ST)",
+      "party": "JMM",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jharkhand",
+      "name": "Sanjay Seth",
+      "constituency": "RANCHI",
+      "party": "BJP",
+      "criminal_cases": 2,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Jharkhand",
+      "name": "Joba Majhi",
+      "constituency": "SINGHBHUM (ST)",
+      "party": "JMM",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Gaddigoudar Parvatgouda Chandangouda",
+      "constituency": "BAGALKOT",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "P C Mohan",
+      "constituency": "BANGALORE CENTRAL",
+      "party": "BJP",
+      "criminal_cases": 2,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Shobha Karandlaje",
+      "constituency": "BANGALORE NORTH",
+      "party": "BJP",
+      "criminal_cases": 5,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Dr C N Manjunath",
+      "constituency": "BANGALORE RURAL",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Tejasvi Surya",
+      "constituency": "BANGALORE SOUTH",
+      "party": "BJP",
+      "criminal_cases": 3,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Jagadish Shettar",
+      "constituency": "BELGAUM",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "E. Tukaram",
+      "constituency": "BELLARY (ST)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Sagar Eshwar Khandre",
+      "constituency": "BIDAR",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Ramesh Jigajinagi",
+      "constituency": "BIJAPUR (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Sunil Bose",
+      "constituency": "CHAMARAJANAGAR (SC)",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Dr.K.Sudhakar",
+      "constituency": "CHIKKBALLAPUR",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Priyanka Satish Jarkiholi",
+      "constituency": "CHIKKODI",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Govind Makthappa Karjol",
+      "constituency": "CHITRADURGA (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Captain Brijesh Chowta",
+      "constituency": "DAKSHINA KANNADA",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Dr. Prabha Mallikarjun",
+      "constituency": "DAVANAGERE",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Pralhad Joshi",
+      "constituency": "DHARWAD",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Radhakrishna",
+      "constituency": "GULBARGA (SC)",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Shreyas. M. Patel",
+      "constituency": "HASSAN",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Basavaraj Bommai",
+      "constituency": "HAVERI",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "M. Mallesh Babu",
+      "constituency": "KOLAR (SC)",
+      "party": "Janata Dal (Secular)",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "K. Rajashekar Basavaraj Hitnal",
+      "constituency": "KOPPAL",
+      "party": "INC",
+      "criminal_cases": 3,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "H.D. Kumaraswamy",
+      "constituency": "MANDYA",
+      "party": "Janata Dal (Secular)",
+      "criminal_cases": 3,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Yaduveer Krishnadatta Chamaraja Wadiyar",
+      "constituency": "MYSORE",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "G. Kumar Naik",
+      "constituency": "RAICHUR (ST)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "B.Y.Raghavendra",
+      "constituency": "SHIMOGA",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "V. Somanna",
+      "constituency": "TUMKUR",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Kota Srinivas Poojary",
+      "constituency": "UDUPI CHIKMAGALUR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "5th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Karnataka",
+      "name": "Hegde Vishweshwar",
+      "constituency": "UTTARA KANNADA",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "K. C Venugopal",
+      "constituency": "ALAPPUZHA",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "K.Radhakrishnan",
+      "constituency": "ALATHUR (SC)",
+      "party": "CPI(M)",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "Adv Adoor Prakash",
+      "constituency": "ATTINGAL",
+      "party": "INC",
+      "criminal_cases": 13,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "Benny Behanan",
+      "constituency": "CHALAKUDY",
+      "party": "INC",
+      "criminal_cases": 5,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "Hibi Eden",
+      "constituency": "ERNAKULAM",
+      "party": "INC",
+      "criminal_cases": 10,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "Adv. Dean Kuriakose",
+      "constituency": "IDUKKI",
+      "party": "INC",
+      "criminal_cases": 88,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "K. Sudhakaran",
+      "constituency": "KANNUR",
+      "party": "INC",
+      "criminal_cases": 14,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "Rajmohan Unnithan",
+      "constituency": "KASARAGOD",
+      "party": "INC",
+      "criminal_cases": 6,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "N K Premachandran",
+      "constituency": "KOLLAM",
+      "party": "Revolutionary Socialist Party",
+      "criminal_cases": 5,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "Adv K Francis George",
+      "constituency": "KOTTAYAM",
+      "party": "Kerala Congress",
+      "criminal_cases": 5,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "M. K. Raghavan",
+      "constituency": "KOZHIKODE",
+      "party": "INC",
+      "criminal_cases": 4,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "E.T. Mohammed Basheer",
+      "constituency": "MALAPPURAM",
+      "party": "Indian Union Muslim League",
+      "criminal_cases": 1,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "Kodikunnil Suresh",
+      "constituency": "MAVELIKKARA (SC)",
+      "party": "INC",
+      "criminal_cases": 6,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "V K Sreekandan",
+      "constituency": "PALAKKAD",
+      "party": "INC",
+      "criminal_cases": 5,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "Anto Antony",
+      "constituency": "PATHANAMTHITTA",
+      "party": "INC",
+      "criminal_cases": 5,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "Dr. M.P Abdussamad Samadani",
+      "constituency": "PONNANI",
+      "party": "Indian Union Muslim League",
+      "criminal_cases": 1,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "Shashi Tharoor",
+      "constituency": "THIRUVANANTHAPURAM",
+      "party": "INC",
+      "criminal_cases": 12,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "Suresh Gopi",
+      "constituency": "THRISSUR",
+      "party": "BJP",
+      "criminal_cases": 4,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "Shafi Parambil",
+      "constituency": "VADAKARA",
+      "party": "INC",
+      "criminal_cases": 47,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Kerala",
+      "name": "Rahul Gandhi",
+      "constituency": "WAYANAD",
+      "party": "INC",
+      "criminal_cases": 18,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Ladakh",
+      "name": "Mohmad Haneefa",
+      "constituency": "LADAKH",
+      "party": "IND",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Lakshadweep",
+      "name": "Muhammed Hamdullah Sayeed",
+      "constituency": "LAKSHADWEEP",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Bharti Pardhi",
+      "constituency": "BALAGHAT",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Durgadas (D. D.) Uikey",
+      "constituency": "BETUL (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Sandhya Ray",
+      "constituency": "BHIND (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Alok Sharma",
+      "constituency": "BHOPAL",
+      "party": "BJP",
+      "criminal_cases": 4,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Bunty Vivek Sahu",
+      "constituency": "CHHINDWARA",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Rahul Singh Lodhi",
+      "constituency": "DAMOH",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Mahendra Singh Solanky",
+      "constituency": "DEWAS (SC)",
+      "party": "BJP",
+      "criminal_cases": 2,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Savitri Thakur",
+      "constituency": "DHAR (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Jyotiraditya M. Scindia",
+      "constituency": "GUNA",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Bharat Singh Kushwah",
+      "constituency": "GWALIOR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Darshan Singh Choudhary",
+      "constituency": "HOSHANGABAD",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Shankar Lalwani",
+      "constituency": "INDORE",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Ashish Dubey",
+      "constituency": "JABALPUR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Vishnu Datt Sharma (V.D.Sharma)",
+      "constituency": "KHAJURAHO",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Gyaneshwar Patil",
+      "constituency": "KHANDWA",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Gajendra Singh Patel",
+      "constituency": "KHARGONE (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Faggan Singh Kulaste",
+      "constituency": "MANDLA (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Sudheer Gupta",
+      "constituency": "MANDSOUR",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Shivmangal Singh Tomar",
+      "constituency": "MORENA",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Rodmal Nagar",
+      "constituency": "RAJGARH",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Anita Nagarsingh Chouhan",
+      "constituency": "RATLAM (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Janardan Mishra S/O Ramdhar Prasad Mishra",
+      "constituency": "REWA",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Dr. Lata Wankhede",
+      "constituency": "SAGAR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Ganesh Singh",
+      "constituency": "SATNA",
+      "party": "BJP",
+      "criminal_cases": 3,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Smt. Himadri Singh",
+      "constituency": "SHAHDOL (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Dr. Rajesh Mishra",
+      "constituency": "SIDHI",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Dr. Virendra Kumar",
+      "constituency": "TIKAMGARH (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Anil Firojiya",
+      "constituency": "UJJAIN (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Madhya Pradesh",
+      "name": "Shivraj Singh Chouhan",
+      "constituency": "VIDISHA",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Nilesh Dnyandev Lanke",
+      "constituency": "AHMEDNAGAR",
+      "party": "Nationalist Congress Party – Sharadchandra Pawar",
+      "criminal_cases": 2,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Anup Sanjay Dhotre",
+      "constituency": "AKOLA",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Balwant Baswant Wankhade",
+      "constituency": "AMRAVATI (SC)",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Abhay Kumar Sinha",
+      "constituency": "AURANGABAD",
+      "party": "RJD",
+      "criminal_cases": 16,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Bhumare Sandipanrao Asaram",
+      "constituency": "AURANGABAD",
+      "party": "Shiv Sena",
+      "criminal_cases": 4,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Supriya Sule",
+      "constituency": "BARAMATI",
+      "party": "Nationalist Congress Party – Sharadchandra Pawar",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Bajrang Manohar Sonwane",
+      "constituency": "BEED",
+      "party": "Nationalist Congress Party – Sharadchandra Pawar",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Dr. Prashant Yadaorao Padole",
+      "constituency": "BHANDARA GONDIYA",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Suresh Gopinath Mhatre Alias Balya Mama",
+      "constituency": "BHIWANDI",
+      "party": "Nationalist Congress Party – Sharadchandra Pawar",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Jadhav Prataprao Ganpatrao",
+      "constituency": "BULDHANA",
+      "party": "Shiv Sena",
+      "criminal_cases": 2,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Dhanorkar Pratibha Suresh Alias Balubhau",
+      "constituency": "CHANDRAPUR",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Bachhav Shobha Dinesh",
+      "constituency": "DHULE",
+      "party": "INC",
+      "criminal_cases": 2,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Bhaskar Murlidhar Bhagare",
+      "constituency": "DINDORI (ST)",
+      "party": "Nationalist Congress Party – Sharadchandra Pawar",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Dr. Kirsan Namdeo",
+      "constituency": "GADCHIROLI - CHIMUR (ST)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Dhairyasheel Sambhajirao Mane",
+      "constituency": "HATKANANGALE",
+      "party": "Shiv Sena",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Aashtikar Patil Nagesh Bapurao",
+      "constituency": "HINGOLI",
+      "party": "ShivSena (Uddhav Balasaheb Thackeray)",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Smita Uday Wagh",
+      "constituency": "JALGAON",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Kalyan Vaijinathrao Kale",
+      "constituency": "JALNA",
+      "party": "INC",
+      "criminal_cases": 2,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Dr Shrikant Eknath Shinde",
+      "constituency": "KALYAN",
+      "party": "Shiv Sena",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Chhatrapati Shahu Shahaji",
+      "constituency": "KOLHAPUR",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Dr. Kalge Shivaji Bandappa",
+      "constituency": "LATUR (SC)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Mohite-Patil Dhairyasheel Rajsinh",
+      "constituency": "MADHA",
+      "party": "Nationalist Congress Party – Sharadchandra Pawar",
+      "criminal_cases": 36,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Shrirang Appa Chandu Barne",
+      "constituency": "MAVAL",
+      "party": "Shiv Sena",
+      "criminal_cases": 3,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Piyush Goyal",
+      "constituency": "MUMBAI NORTH",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Gaikwad Varsha Eknath",
+      "constituency": "MUMBAI NORTH - CENTRAL",
+      "party": "INC",
+      "criminal_cases": 7,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Sanjay Dina Patil",
+      "constituency": "MUMBAI NORTH - EAST",
+      "party": "ShivSena (Uddhav Balasaheb Thackeray)",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Ravindra Dattaram Waikar",
+      "constituency": "MUMBAI NORTH - WEST",
+      "party": "Shiv Sena",
+      "criminal_cases": 3,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Arvind Ganpat Sawant",
+      "constituency": "MUMBAI SOUTH",
+      "party": "ShivSena (Uddhav Balasaheb Thackeray)",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Anil Yeshwant Desai",
+      "constituency": "MUMBAI SOUTH - CENTRAL",
+      "party": "ShivSena (Uddhav Balasaheb Thackeray)",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Nitin Jairam Gadkari",
+      "constituency": "NAGPUR",
+      "party": "BJP",
+      "criminal_cases": 10,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Vasantrao Balwantrao Chavan",
+      "constituency": "NANDED",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Adv Gowaal Kagada Padavi",
+      "constituency": "NANDURBAR (ST)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Rajabhau (Parag) Prakash Waje",
+      "constituency": "NASHIK",
+      "party": "ShivSena (Uddhav Balasaheb Thackeray)",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Omprakash Bhupalsinh Alias Pavan Rajenimbalkar",
+      "constituency": "OSMANABAD",
+      "party": "ShivSena (Uddhav Balasaheb Thackeray)",
+      "criminal_cases": 2,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Dr. Hemant Vishnu Savara",
+      "constituency": "PALGHAR (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Jadhav Sanjay ( Bandu ) Haribhau",
+      "constituency": "PARBHANI",
+      "party": "ShivSena (Uddhav Balasaheb Thackeray)",
+      "criminal_cases": 6,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Murlidhar Mohol",
+      "constituency": "PUNE",
+      "party": "BJP",
+      "criminal_cases": 3,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Tatkare Sunil Dattatrey",
+      "constituency": "RAIGAD",
+      "party": "NCP",
+      "criminal_cases": 0,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Shyamkumar Daulat Barve",
+      "constituency": "RAMTEK (SC)",
+      "party": "INC",
+      "criminal_cases": 2,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Narayan Tatu Rane",
+      "constituency": "RATNAGIRI - SINDHUDURG",
+      "party": "BJP",
+      "criminal_cases": 7,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Khadse Raksha Nikhil",
+      "constituency": "RAVER",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Vishal (Dada) Prakashbapu Patil",
+      "constituency": "SANGLI",
+      "party": "IND",
+      "criminal_cases": 9,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Shrimant Chh Udayanraje Pratapsinhamaharaj Bhonsle",
+      "constituency": "SATARA",
+      "party": "BJP",
+      "criminal_cases": 4,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Bhausaheb Rajaram Wakchaure",
+      "constituency": "SHIRDI (SC)",
+      "party": "ShivSena (Uddhav Balasaheb Thackeray)",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Dr. Amol Ramsing Kolhe",
+      "constituency": "SHIRUR",
+      "party": "Nationalist Congress Party – Sharadchandra Pawar",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Praniti Sushilkumar Shinde",
+      "constituency": "SOLAPUR (SC)",
+      "party": "INC",
+      "criminal_cases": 3,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Naresh Ganpat Mhaske",
+      "constituency": "THANE",
+      "party": "Shiv Sena",
+      "criminal_cases": 2,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Amar Sharadrao Kale",
+      "constituency": "WARDHA",
+      "party": "Nationalist Congress Party – Sharadchandra Pawar",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Maharashtra",
+      "name": "Sanjay Uttamrao Deshmukh",
+      "constituency": "YAVATMAL - WASHIM",
+      "party": "ShivSena (Uddhav Balasaheb Thackeray)",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Manipur",
+      "name": "Angomcha Bimol Akoijam",
+      "constituency": "INNER MANIPUR",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Manipur",
+      "name": "Alfred Kanngam S Arthur",
+      "constituency": "OUTER MANIPUR (ST)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Meghalaya",
+      "name": "Dr. Ricky Andrew J. Syngkon",
+      "constituency": "SHILLONG (ST)",
+      "party": "Voice of the People Party",
+      "criminal_cases": 0,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Meghalaya",
+      "name": "Saleng A Sangma",
+      "constituency": "TURA (ST)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Mizoram",
+      "name": "Richard Vanlalhmangaiha",
+      "constituency": "MIZORAM (ST)",
+      "party": "Zoram Peoples Movement",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Nagaland",
+      "name": "S Supongmeren Jamir",
+      "constituency": "NAGALAND",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Nct",
+      "name": "Praveen Khandelwal",
+      "constituency": "CHANDNI CHOWK",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Nct",
+      "name": "Harsh Malhotra",
+      "constituency": "EAST DELHI",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Nct",
+      "name": "Bansuri Swaraj",
+      "constituency": "NEW DELHI",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Nct",
+      "name": "Manoj Tiwari",
+      "constituency": "NORTH EAST DELHI",
+      "party": "BJP",
+      "criminal_cases": 2,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Nct",
+      "name": "Yogender Chandoliya",
+      "constituency": "NORTH WEST DELHI (SC)",
+      "party": "BJP",
+      "criminal_cases": 2,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Nct",
+      "name": "Ramvir Singh Bidhuri",
+      "constituency": "SOUTH DELHI",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Nct",
+      "name": "Kamaljeet Sehrawat",
+      "constituency": "WEST DELHI",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Anita Subhadarshini",
+      "constituency": "ASKA",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Pratap Chandra Sarangi",
+      "constituency": "BALASORE",
+      "party": "BJP",
+      "criminal_cases": 9,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Pradeep Purohit",
+      "constituency": "BARGARH",
+      "party": "BJP",
+      "criminal_cases": 8,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Dr Pradeep Kumar Panigrahy",
+      "constituency": "BERHAMPUR",
+      "party": "BJP",
+      "criminal_cases": 9,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Avimanyu Sethi",
+      "constituency": "BHADRAK (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Aparajita Sarangi",
+      "constituency": "BHUBANESWAR",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Sangeeta Kumari Singh Deo",
+      "constituency": "BOLANGIR",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Bhartruhari Mahtab",
+      "constituency": "CUTTACK",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Rudra Narayan Pany",
+      "constituency": "DHENKANAL",
+      "party": "BJP",
+      "criminal_cases": 8,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Bibhu Prasad Tarai",
+      "constituency": "JAGATSINGHPUR (SC)",
+      "party": "BJP",
+      "criminal_cases": 3,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Rabindra Narayan Behera",
+      "constituency": "JAJPUR (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Malvika Devi",
+      "constituency": "KALAHANDI",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Sukanta Kumar Panigrahi",
+      "constituency": "KANDHAMAL",
+      "party": "BJP",
+      "criminal_cases": 4,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Baijayant Panda",
+      "constituency": "KENDRAPARA",
+      "party": "BJP",
+      "criminal_cases": 8,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Ananta Nayak",
+      "constituency": "KEONJHAR (ST)",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Saptagiri Sankar Ulaka",
+      "constituency": "KORAPUT (ST)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Naba Charan Majhi",
+      "constituency": "MAYURBHANJ (ST)",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Balabhadra Majhi",
+      "constituency": "NABARANGPUR (ST)",
+      "party": "BJP",
+      "criminal_cases": 2,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Sambit Patra",
+      "constituency": "PURI",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Dharmendra Pradhan",
+      "constituency": "SAMBALPUR",
+      "party": "BJP",
+      "criminal_cases": 5,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Odisha",
+      "name": "Jual Oram",
+      "constituency": "SUNDARGARH (ST)",
+      "party": "BJP",
+      "criminal_cases": 3,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Puducherry",
+      "name": "Ve Vaithilingam",
+      "constituency": "PUDUCHERRY",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Punjab",
+      "name": "Gurjeet Singh Aujla",
+      "constituency": "AMRITSAR",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Punjab",
+      "name": "Malvinder Singh Kang",
+      "constituency": "ANANDPUR SAHIB",
+      "party": "AAP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Punjab",
+      "name": "Harsimrat Kaur Badal",
+      "constituency": "BATHINDA",
+      "party": "SAD",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Punjab",
+      "name": "Sarabjeet Singh Khalsa",
+      "constituency": "FARIDKOT (SC)",
+      "party": "IND",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Punjab",
+      "name": "Amar Singh",
+      "constituency": "FATEHGARH SAHIB (SC)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Punjab",
+      "name": "Sher Singh Ghubaya",
+      "constituency": "FIROZPUR",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Punjab",
+      "name": "Sukhjinder Singh Randhawa",
+      "constituency": "GURDASPUR",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Punjab",
+      "name": "Dr. Raj Kumar Chabbewal",
+      "constituency": "HOSHIARPUR (SC)",
+      "party": "AAP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Punjab",
+      "name": "Charanjit Singh Channi",
+      "constituency": "JALANDHAR (SC)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Punjab",
+      "name": "Amritpal Singh",
+      "constituency": "KHADOOR SAHIB",
+      "party": "IND",
+      "criminal_cases": 12,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Punjab",
+      "name": "Amrinder Singh Raja Warring",
+      "constituency": "LUDHIANA",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Punjab",
+      "name": "Dr Dharamvira Gandhi",
+      "constituency": "PATIALA",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Punjab",
+      "name": "Gurmeet Singh Hayer",
+      "constituency": "SANGRUR",
+      "party": "AAP",
+      "criminal_cases": 2,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Bhagirath Choudhary",
+      "constituency": "AJMER",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Bhupender Yadav",
+      "constituency": "ALWAR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Raj Kumar Roat",
+      "constituency": "BANSWARA (ST)",
+      "party": "Bharat Adivasi Party",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Ummeda Ram Beniwal",
+      "constituency": "BARMER",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Sanjna Jatav",
+      "constituency": "BHARATPUR (SC)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Damodar Agarwal",
+      "constituency": "BHILWARA",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Arjun Ram Meghwal",
+      "constituency": "BIKANER (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Chandra Prakash Joshi",
+      "constituency": "CHITTORGARH",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Rahul Kaswan",
+      "constituency": "CHURU",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Murari Lal Meena",
+      "constituency": "DAUSA (ST)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Kuldeep Indora",
+      "constituency": "GANGANAGAR (SC)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Manju Sharma",
+      "constituency": "JAIPUR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Rao Rajendra Singh",
+      "constituency": "JAIPUR RURAL",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Lumbaram",
+      "constituency": "JALORE",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Dushyant Singh",
+      "constituency": "JHALAWAR-BARAN",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Brijendra Singh Ola",
+      "constituency": "JHUNJHUNU",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Gajendra Singh Shekhawat",
+      "constituency": "JODHPUR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Bhajan Lal Jatav",
+      "constituency": "KARAULI-DHOLPUR (SC)",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Om Birla",
+      "constituency": "KOTA",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Hanuman Beniwal",
+      "constituency": "NAGAUR",
+      "party": "Rashtriya Loktantrik Party",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "P. P. Chaudhary",
+      "constituency": "PALI",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Mahima Kumari Mewar",
+      "constituency": "RAJSAMAND",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Amraram",
+      "constituency": "SIKAR",
+      "party": "CPI(M)",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Harish Chandra Meena",
+      "constituency": "TONK-SAWAI MADHOPUR",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Rajasthan",
+      "name": "Manna Lal Rawat",
+      "constituency": "UDAIPUR (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Sikkim",
+      "name": "Indra Hang Subba",
+      "constituency": "SIKKIM",
+      "party": "Sikkim Krantikari Morcha",
+      "criminal_cases": 0,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "S Jagathratchakan",
+      "constituency": "ARAKKONAM",
+      "party": "DMK",
+      "criminal_cases": 2,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Tharaniventhan M S",
+      "constituency": "ARANI",
+      "party": "DMK",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Dayanidhi Maran",
+      "constituency": "CHENNAI CENTRAL",
+      "party": "DMK",
+      "criminal_cases": 4,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Dr.Kalanidhi Veeraswamy",
+      "constituency": "CHENNAI NORTH",
+      "party": "DMK",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Sumathy T",
+      "constituency": "CHENNAI SOUTH",
+      "party": "DMK",
+      "criminal_cases": 0,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Thirumaavalavan Thol",
+      "constituency": "CHIDAMBARAM (SC)",
+      "party": "Viduthalai Chiruthaigal Katchi",
+      "criminal_cases": 7,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Ganapathy Rajkumar P",
+      "constituency": "COIMBATORE",
+      "party": "DMK",
+      "criminal_cases": 1,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "M.K. Vishnuprasad",
+      "constituency": "CUDDALORE",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Mani. A.",
+      "constituency": "DHARMAPURI",
+      "party": "DMK",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Sachithanantham R",
+      "constituency": "DINDIGUL",
+      "party": "CPI(M)",
+      "criminal_cases": 9,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "K E Prakash",
+      "constituency": "ERODE",
+      "party": "DMK",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Malaiyarasan D",
+      "constituency": "KALLAKURICHI",
+      "party": "DMK",
+      "criminal_cases": 4,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Selvam. G",
+      "constituency": "KANCHEEPURAM (SC)",
+      "party": "DMK",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Vijayakumar Alias Vijay Vasanth",
+      "constituency": "KANNIYAKUMARI",
+      "party": "INC",
+      "criminal_cases": 8,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Jothimani. S",
+      "constituency": "KARUR",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Gopinath K",
+      "constituency": "KRISHNAGIRI",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Venkatesan S",
+      "constituency": "MADURAI",
+      "party": "CPI(M)",
+      "criminal_cases": 3,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Sudha R",
+      "constituency": "MAYILADUTHURAI",
+      "party": "INC",
+      "criminal_cases": 10,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Selvaraj V",
+      "constituency": "NAGAPATTINAM (SC)",
+      "party": "CPI",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Matheswaran V S",
+      "constituency": "NAMAKKAL",
+      "party": "DMK",
+      "criminal_cases": 3,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Raja A",
+      "constituency": "NILGIRIS (SC)",
+      "party": "DMK",
+      "criminal_cases": 7,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Arun Nehru",
+      "constituency": "PERAMBALUR",
+      "party": "DMK",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Eswarasamy K",
+      "constituency": "POLLACHI",
+      "party": "DMK",
+      "criminal_cases": 1,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "K Navaskani",
+      "constituency": "RAMANATHAPURAM",
+      "party": "Indian Union Muslim League",
+      "criminal_cases": 1,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Selvaganapathi T M",
+      "constituency": "SALEM",
+      "party": "DMK",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Karti P Chidambaram",
+      "constituency": "SIVAGANGA",
+      "party": "INC",
+      "criminal_cases": 11,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "T R Baalu",
+      "constituency": "SRIPERUMBUDUR",
+      "party": "DMK",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Dr Rani Sri Kumar",
+      "constituency": "TENKASI (SC)",
+      "party": "DMK",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Murasoli S",
+      "constituency": "THANJAVUR",
+      "party": "DMK",
+      "criminal_cases": 6,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Thanga Tamilselvan",
+      "constituency": "THENI",
+      "party": "DMK",
+      "criminal_cases": 17,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Kanimozhi Karunanidhi",
+      "constituency": "THOOTHUKKUDI",
+      "party": "DMK",
+      "criminal_cases": 2,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Durai Vaiko",
+      "constituency": "TIRUCHIRAPPALLI",
+      "party": "Marumalarchi Dravida Munnetra Kazhagam",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Robert Bruce C",
+      "constituency": "TIRUNELVELI",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "K Subbarayan",
+      "constituency": "TIRUPPUR",
+      "party": "CPI",
+      "criminal_cases": 1,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Sasikanth Senthil",
+      "constituency": "TIRUVALLUR (SC)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "C N Annadurai",
+      "constituency": "TIRUVANNAMALAI",
+      "party": "DMK",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Dm Kathir Anand",
+      "constituency": "VELLORE",
+      "party": "DMK",
+      "criminal_cases": 5,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Ravikumar. D",
+      "constituency": "VILUPPURAM (SC)",
+      "party": "Viduthalai Chiruthaigal Katchi",
+      "criminal_cases": 0,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tamil Nadu",
+      "name": "Manickam Tagore B",
+      "constituency": "VIRUDHUNAGAR",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "Godam Nagesh",
+      "constituency": "ADILABAD (ST)",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "Chamala Kiran Kumar Reddy",
+      "constituency": "BHONGIR",
+      "party": "INC",
+      "criminal_cases": 3,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "Konda Vishweshwar Reddy",
+      "constituency": "CHEVELLA",
+      "party": "BJP",
+      "criminal_cases": 4,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "Asaduddin Owaisi",
+      "constituency": "HYDERABAD",
+      "party": "All India Majlis-E-Ittehadul Muslimeen",
+      "criminal_cases": 5,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "Bandi Sanjay Kumar",
+      "constituency": "KARIMNAGAR",
+      "party": "BJP",
+      "criminal_cases": 42,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "Ramasahayam Raghuram Reddy",
+      "constituency": "KHAMMAM",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "Balram Naik Porika",
+      "constituency": "MAHABUBABAD (ST)",
+      "party": "INC",
+      "criminal_cases": 6,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "Aruna. D. K",
+      "constituency": "MAHBUBNAGAR",
+      "party": "BJP",
+      "criminal_cases": 6,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "Eatala Rajender",
+      "constituency": "MALKAJGIRI",
+      "party": "BJP",
+      "criminal_cases": 45,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "Madhavaneni Raghunandan Rao",
+      "constituency": "MEDAK",
+      "party": "BJP",
+      "criminal_cases": 29,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "Dr.Mallu Ravi",
+      "constituency": "NAGARKURNOOL (SC)",
+      "party": "INC",
+      "criminal_cases": 6,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "Kunduru Raghuveer",
+      "constituency": "NALGONDA",
+      "party": "INC",
+      "criminal_cases": 2,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "Arvind Dharmapuri",
+      "constituency": "NIZAMABAD",
+      "party": "BJP",
+      "criminal_cases": 22,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "Vamsi Krishna Gaddam",
+      "constituency": "PEDDAPALLE (SC)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "G. Kishan Reddy",
+      "constituency": "SECUNDERABAD",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "Kadiyam Kavya",
+      "constituency": "WARANGAL (SC)",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Telangana",
+      "name": "Suresh Kumar Shetkar",
+      "constituency": "ZAHIRABAD",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tripura",
+      "name": "Kriti Devi Debbarman",
+      "constituency": "TRIPURA EAST (ST)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Tripura",
+      "name": "Biplab Kumar Deb",
+      "constituency": "TRIPURA WEST",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Prof S P Singh Baghel",
+      "constituency": "AGRA (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Devendra Singh Alias Bhole Singh",
+      "constituency": "AKBARPUR",
+      "party": "BJP",
+      "criminal_cases": 13,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Satish Kumar Gautam",
+      "constituency": "ALIGARH",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Ujjwal Raman Singh",
+      "constituency": "ALLAHABAD",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Lalji Verma",
+      "constituency": "AMBEDKAR NAGAR",
+      "party": "SP",
+      "criminal_cases": 2,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Kishori Lal",
+      "constituency": "AMETHI",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Kanwar Singh Tanwar",
+      "constituency": "AMROHA",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "8th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Neeraj Maurya",
+      "constituency": "AONLA",
+      "party": "SP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Dharmendra Yadav",
+      "constituency": "AZAMGARH",
+      "party": "SP",
+      "criminal_cases": 4,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Aditya Yadav",
+      "constituency": "BADAUN",
+      "party": "SP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Dr Rajkumar Sangwan",
+      "constituency": "BAGHPAT",
+      "party": "Rashtriya Lok Dal",
+      "criminal_cases": 3,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Anand Kumar",
+      "constituency": "BAHRAICH (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Sanatan Pandey",
+      "constituency": "BALLIA",
+      "party": "SP",
+      "criminal_cases": 2,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Krishna Devi Shivshanker Patel",
+      "constituency": "BANDA",
+      "party": "SP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Kamlesh Paswan",
+      "constituency": "BANSGAON (SC)",
+      "party": "BJP",
+      "criminal_cases": 9,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Tanuj Punia",
+      "constituency": "BARABANKI (SC)",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Chhatra Pal Singh Gangwar",
+      "constituency": "BAREILLY",
+      "party": "BJP",
+      "criminal_cases": 2,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Ram Prasad Chaudhary",
+      "constituency": "BASTI",
+      "party": "SP",
+      "criminal_cases": 4,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Dr. Vinod Kumar Bind",
+      "constituency": "BHADOHI",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Chandan Chauhan",
+      "constituency": "BIJNOR",
+      "party": "Rashtriya Lok Dal",
+      "criminal_cases": 3,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Dr Bhola Singh",
+      "constituency": "BULANDSHAHR (SC)",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Birendra Singh",
+      "constituency": "CHANDAULI",
+      "party": "SP",
+      "criminal_cases": 3,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Shashank Mani",
+      "constituency": "DEORIA",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Anand Bhadauriya",
+      "constituency": "DHAURAHRA",
+      "party": "SP",
+      "criminal_cases": 4,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Jagdambika Pal",
+      "constituency": "DOMARIYAGANJ",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Devesh Shakya",
+      "constituency": "ETAH",
+      "party": "SP",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Jitendra Kumar Dohare",
+      "constituency": "ETAWAH (SC)",
+      "party": "SP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Awadhesh Prasad",
+      "constituency": "FAIZABAD",
+      "party": "SP",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Mukesh Rajput",
+      "constituency": "FARRUKHABAD",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Naresh Chandra Uttam Patel",
+      "constituency": "FATEHPUR",
+      "party": "SP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Rajkumar Chahar",
+      "constituency": "FATEHPUR SIKRI",
+      "party": "BJP",
+      "criminal_cases": 2,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Akshaya Yadav",
+      "constituency": "FIROZABAD",
+      "party": "SP",
+      "criminal_cases": 3,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Dr. Mahesh Sharma",
+      "constituency": "GAUTAM BUDDHA NAGAR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Atul Garg",
+      "constituency": "GHAZIABAD",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Afzal Ansari",
+      "constituency": "GHAZIPUR",
+      "party": "SP",
+      "criminal_cases": 5,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Rajeev Rai",
+      "constituency": "GHOSI",
+      "party": "SP",
+      "criminal_cases": 1,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Kirtivardhan Singh",
+      "constituency": "GONDA",
+      "party": "BJP",
+      "criminal_cases": 3,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Ravindra Shukla Alias Ravi Kishan",
+      "constituency": "GORAKHPUR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Jai Prakash",
+      "constituency": "HARDOI (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Anoop Pradhan Balmiki",
+      "constituency": "HATHRAS (SC)",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Narayan Das Ahirwar",
+      "constituency": "JALAUN (SC)",
+      "party": "SP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Babu Singh Kushwaha",
+      "constituency": "JAUNPUR",
+      "party": "SP",
+      "criminal_cases": 25,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Anurag Sharma",
+      "constituency": "JHANSI",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Iqra Choudhary",
+      "constituency": "KAIRANA",
+      "party": "SP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Karan Bhushan Singh",
+      "constituency": "KAISERGANJ",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Akhilesh Yadav",
+      "constituency": "KANNAUJ",
+      "party": "SP",
+      "criminal_cases": 3,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Ramesh Awasthi",
+      "constituency": "KANPUR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Pushpendra Saroj",
+      "constituency": "KAUSHAMBI (SC)",
+      "party": "SP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Utkarsh Verma (Madhur)",
+      "constituency": "KHERI",
+      "party": "SP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Vijay Kumar Dubay",
+      "constituency": "KUSHI NAGAR",
+      "party": "BJP",
+      "criminal_cases": 2,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Daroga Prasad Saroj",
+      "constituency": "LALGANJ (SC)",
+      "party": "SP",
+      "criminal_cases": 3,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Raj Nath Singh",
+      "constituency": "LUCKNOW",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Priya Saroj",
+      "constituency": "MACHHLISHAHR (SC)",
+      "party": "SP",
+      "criminal_cases": 2,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Pankaj Chaudhary",
+      "constituency": "MAHARAJGANJ",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Janardan Singh (Sigriwal)",
+      "constituency": "MAHARAJGANJ",
+      "party": "BJP",
+      "criminal_cases": 5,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Dimple Yadav",
+      "constituency": "MAINPURI",
+      "party": "SP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Hemamalini Dharmendra Deol",
+      "constituency": "MATHURA",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Arun Govil",
+      "constituency": "MEERUT",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Anupriya Patel",
+      "constituency": "MIRZAPUR",
+      "party": "Apna Dal (Soneylal)",
+      "criminal_cases": 2,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Ashok Kumar Rawat",
+      "constituency": "MISRIKH (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "R.K. Chaudhary",
+      "constituency": "MOHANLALGANJ (SC)",
+      "party": "SP",
+      "criminal_cases": 2,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Ruchi Vira",
+      "constituency": "MORADABAD",
+      "party": "SP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Harendra Singh Malik",
+      "constituency": "MUZAFFARNAGAR",
+      "party": "SP",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Chandrashekhar",
+      "constituency": "NAGINA (SC)",
+      "party": "Aazad Samaj Party (Kanshi Ram)",
+      "criminal_cases": 36,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Praveen Patel",
+      "constituency": "PHULPUR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Jitin Prasada",
+      "constituency": "PILIBHIT",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Shiv Pal Singh Patel (Dr. S P Singh)",
+      "constituency": "PRATAPGARH",
+      "party": "SP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Rahul Gandhi",
+      "constituency": "RAE BARELI",
+      "party": "INC",
+      "criminal_cases": 18,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Mohibbullah",
+      "constituency": "RAMPUR",
+      "party": "SP",
+      "criminal_cases": 3,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Chhotelal",
+      "constituency": "ROBERTSGANJ (SC)",
+      "party": "SP",
+      "criminal_cases": 0,
+      "education": "5th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Imran Masood",
+      "constituency": "SAHARANPUR",
+      "party": "INC",
+      "criminal_cases": 8,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Ramashankar Rajbhar",
+      "constituency": "SALEMPUR",
+      "party": "SP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Zia Ur Rehman",
+      "constituency": "SAMBHAL",
+      "party": "SP",
+      "criminal_cases": 6,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Laxmikant Pappu Nishad",
+      "constituency": "SANT KABIR NAGAR",
+      "party": "SP",
+      "criminal_cases": 3,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Arun Kumar Sagar",
+      "constituency": "SHAHJAHANPUR (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Ram Shiromani Verma",
+      "constituency": "SHRAWASTI",
+      "party": "SP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Rakesh Rathor",
+      "constituency": "SITAPUR",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Rambhual Nishad",
+      "constituency": "SULTANPUR",
+      "party": "SP",
+      "criminal_cases": 8,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Swami Sachchidanand Hari Sakshi",
+      "constituency": "UNNAO",
+      "party": "BJP",
+      "criminal_cases": 2,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttar Pradesh",
+      "name": "Narendra Modi",
+      "constituency": "VARANASI",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttarakhand",
+      "name": "Ajay Tamta",
+      "constituency": "ALMORA (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttarakhand",
+      "name": "Anil Baluni",
+      "constituency": "GARHWAL",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttarakhand",
+      "name": "Trivendra Singh Rawat",
+      "constituency": "HARIDWAR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttarakhand",
+      "name": "Ajay Bhatt",
+      "constituency": "NAINITAL-UDHAM SINGH NAGAR",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "Uttarakhand",
+      "name": "Mala Rajya Lakshmi Shah",
+      "constituency": "TEHRI GARHWAL",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Manoj Tigga",
+      "constituency": "ALIPURDUARS (ST)",
+      "party": "BJP",
+      "criminal_cases": 6,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Mitali Bag",
+      "constituency": "ARAMBAG (SC)",
+      "party": "AITC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Shatrughan Prasad Sinha",
+      "constituency": "ASANSOL",
+      "party": "AITC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Pathan Yusuf",
+      "constituency": "BAHARAMPUR",
+      "party": "AITC",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Sukanta Majumdar",
+      "constituency": "BALURGHAT",
+      "party": "BJP",
+      "criminal_cases": 16,
+      "education": "Doctorate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Shantanu Thakur",
+      "constituency": "BANGAON (SC)",
+      "party": "BJP",
+      "criminal_cases": 23,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Arup Chakraborty",
+      "constituency": "BANKURA",
+      "party": "AITC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Kakoli Ghosh Dastidar",
+      "constituency": "BARASAT",
+      "party": "AITC",
+      "criminal_cases": 2,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Dr. Sharmila Sarkar",
+      "constituency": "BARDHAMAN PURBA (SC)",
+      "party": "AITC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Partha Bhowmick",
+      "constituency": "BARRACKPUR",
+      "party": "AITC",
+      "criminal_cases": 2,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Sk Nurul Islam",
+      "constituency": "BASIRHAT",
+      "party": "AITC",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Satabdi Roy",
+      "constituency": "BIRBHUM",
+      "party": "AITC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Khan Saumitra",
+      "constituency": "BISHNUPUR (SC)",
+      "party": "BJP",
+      "criminal_cases": 15,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Asit Kumar Mal",
+      "constituency": "BOLPUR",
+      "party": "AITC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Azad Kirti Jha",
+      "constituency": "BURDWAN - DURGAPUR",
+      "party": "AITC",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Jagadish Chandra Barma Basunia",
+      "constituency": "COOCH BEHAR (SC)",
+      "party": "AITC",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Raju Bista",
+      "constituency": "DARJEELING",
+      "party": "BJP",
+      "criminal_cases": 2,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Abhishek Banerjee",
+      "constituency": "DIAMOND HARBOUR",
+      "party": "AITC",
+      "criminal_cases": 2,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Sougata Ray",
+      "constituency": "DUM DUM",
+      "party": "AITC",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Adhikari Deepak (Dev)",
+      "constituency": "GHATAL",
+      "party": "AITC",
+      "criminal_cases": 0,
+      "education": "Others",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Rachna Banerjee",
+      "constituency": "HOOGHLY",
+      "party": "AITC",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Prasun Banerjee",
+      "constituency": "HOWRAH",
+      "party": "AITC",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Sayani Ghosh",
+      "constituency": "JADAVPUR",
+      "party": "AITC",
+      "criminal_cases": 1,
+      "education": "12th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Dr Jayanta Kumar Roy",
+      "constituency": "JALPAIGURI (SC)",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Khalilur Rahaman",
+      "constituency": "JANGIPUR",
+      "party": "AITC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Pratima Mondal",
+      "constituency": "JAYNAGAR (SC)",
+      "party": "AITC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Kalipada Saren Kherwal",
+      "constituency": "JHARGRAM (ST)",
+      "party": "AITC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Adhikari Soumendu",
+      "constituency": "KANTHI",
+      "party": "BJP",
+      "criminal_cases": 6,
+      "education": "Post Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Mala Roy",
+      "constituency": "KOLKATA DAKSHIN",
+      "party": "AITC",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Bandyopadhyay Sudip",
+      "constituency": "KOLKATA UTTAR",
+      "party": "AITC",
+      "criminal_cases": 2,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Mahua Moitra",
+      "constituency": "KRISHNANAGAR",
+      "party": "AITC",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Isha Khan Choudhury",
+      "constituency": "MALDAHA DAKSHIN",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Khagen Murmu",
+      "constituency": "MALDAHA UTTAR",
+      "party": "BJP",
+      "criminal_cases": 7,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Bapi Haldar",
+      "constituency": "MATHURAPUR (SC)",
+      "party": "AITC",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "June Maliah",
+      "constituency": "MEDINIPUR",
+      "party": "AITC",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Abu Taher Khan",
+      "constituency": "MURSHIDABAD",
+      "party": "AITC",
+      "criminal_cases": 3,
+      "education": "10th Pass",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Jyotirmay Singh Mahato",
+      "constituency": "PURULIA",
+      "party": "BJP",
+      "criminal_cases": 3,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Kartick Chandra Paul",
+      "constituency": "RAIGANJ",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Jagannath Sarkar",
+      "constituency": "RANAGHAT (SC)",
+      "party": "BJP",
+      "criminal_cases": 4,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Kalyan Banerjee",
+      "constituency": "SREERAMPUR",
+      "party": "AITC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Abhijit Gangopadhyay",
+      "constituency": "TAMLUK",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": null
+    },
+    {
+      "state_or_ut": "West Bengal",
+      "name": "Sajda Ahmed",
+      "constituency": "ULUBERIA",
+      "party": "AITC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": null
+    }
+  ]
+}

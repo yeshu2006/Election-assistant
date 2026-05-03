@@ -1,0 +1,958 @@
+{
+  "state": "Telangana",
+  "count": 119,
+  "mlas": [
+    {
+      "name": "Guvvala Balaraju",
+      "constituency": "ACHAMPET",
+      "party": "TRS",
+      "criminal_cases": 4,
+      "education": "Graduate Professional",
+      "assets": 4851000.0
+    },
+    {
+      "name": "Jogu Ramanna",
+      "constituency": "ADILABAD",
+      "party": "TRS",
+      "criminal_cases": 3,
+      "education": "12th Pass",
+      "assets": 8486761.0
+    },
+    {
+      "name": "Gongidi Sunitha",
+      "constituency": "ALAIR",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": 19046500.0
+    },
+    {
+      "name": "S.A.Sampath Kumar",
+      "constituency": "ALAMPUR",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": 4866053.0
+    },
+    {
+      "name": "Gangapuram Kishan Reddy",
+      "constituency": "AMBERPET",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Others",
+      "assets": 64484195.0
+    },
+    {
+      "name": "Babumohanpally",
+      "constituency": "ANDOLE",
+      "party": "TRS",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": 14021000.0
+    },
+    {
+      "name": "Ashannagari Jeevan Reddy",
+      "constituency": "ARMUR",
+      "party": "TRS",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": 79833800.0
+    },
+    {
+      "name": "Kova Laxmi",
+      "constituency": "ASIFABAD",
+      "party": "TRS",
+      "criminal_cases": 1,
+      "education": "10th Pass",
+      "assets": 1307792.0
+    },
+    {
+      "name": "Thati Venkateswarlu",
+      "constituency": "ASWARAOPETA",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "criminal_cases": 1,
+      "education": "8th Pass",
+      "assets": 40905150.0
+    },
+    {
+      "name": "Mohd. Moazam Khan",
+      "constituency": "BAHADURPURA",
+      "party": "All India Majlis-E-Ittehadul Muslimeen",
+      "criminal_cases": 2,
+      "education": "10th Pass",
+      "assets": 53741849.0
+    },
+    {
+      "name": "Vemula Prashanth Reddy",
+      "constituency": "BALKONDA",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": 29472081.0
+    },
+    {
+      "name": "Srinivas Reddy Parige",
+      "constituency": "BANSWADA",
+      "party": "TRS",
+      "criminal_cases": 1,
+      "education": "12th Pass",
+      "assets": 4817947.0
+    },
+    {
+      "name": "Durgam Chinnaiah",
+      "constituency": "BELLAMPALLE",
+      "party": "TRS",
+      "criminal_cases": 2,
+      "education": "Others",
+      "assets": 7020000.0
+    },
+    {
+      "name": "Sunnam Rajaiah",
+      "constituency": "BHADRACHALAM",
+      "party": "CPM",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": 6073135.0
+    },
+    {
+      "name": "Pailla Shekar Reddy",
+      "constituency": "BHONGIR",
+      "party": "TRS",
+      "criminal_cases": 1,
+      "education": "Others",
+      "assets": 619660334.0
+    },
+    {
+      "name": "Madhusudana Chary Sirikonda",
+      "constituency": "BHUPALPALLE",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": 5206000.0
+    },
+    {
+      "name": "Rathod Bapu Rao",
+      "constituency": "BOATH",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": 3343640.0
+    },
+    {
+      "name": "Mohammed Shakil Aamir",
+      "constituency": "BODHAN",
+      "party": "TRS",
+      "criminal_cases": 2,
+      "education": "Others",
+      "assets": 13408582.0
+    },
+    {
+      "name": "Akbaruddin Owaisi",
+      "constituency": "CHANDRAYANGUTTA",
+      "party": "All India Majlis-E-Ittehadul Muslimeen",
+      "criminal_cases": 10,
+      "education": "12th Pass",
+      "assets": 175012572.0
+    },
+    {
+      "name": "Syed Ahmed Pasha Quadri",
+      "constituency": "CHARMINAR",
+      "party": "All India Majlis-E-Ittehadul Muslimeen",
+      "criminal_cases": 8,
+      "education": "10th Pass",
+      "assets": 2540982.0
+    },
+    {
+      "name": "Nallala Odelu",
+      "constituency": "CHENNUR",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": 995000.0
+    },
+    {
+      "name": "Kale Yadaiah",
+      "constituency": "CHEVELLA",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": 1141000.0
+    },
+    {
+      "name": "Bodiga Shobha",
+      "constituency": "CHOPPADANDI",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": 15215000.0
+    },
+    {
+      "name": "Ravindra Kumar Ramavath",
+      "constituency": "DEVARAKONDA",
+      "party": "CPI",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": 6530000.0
+    },
+    {
+      "name": "Alla Venkateshwar Reddy",
+      "constituency": "DEVARKADRA",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": 55396329.0
+    },
+    {
+      "name": "Koppula Eshwar",
+      "constituency": "DHARMAPURI",
+      "party": "TRS",
+      "criminal_cases": 2,
+      "education": "Graduate",
+      "assets": 5710000.0
+    },
+    {
+      "name": "D.S. Redya Naik",
+      "constituency": "DORNAKAL",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": 28874000.0
+    },
+    {
+      "name": "Solipteta Rama Linga Reddy",
+      "constituency": "DUBBAK",
+      "party": "TRS",
+      "criminal_cases": 22,
+      "education": "12th Pass",
+      "assets": 4765861.0
+    },
+    {
+      "name": "D K Aruna @ Arundhati",
+      "constituency": "GADWAL",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "12th Pass",
+      "assets": 362787233.0
+    },
+    {
+      "name": "Kalvakuntla Chandrashekar Rao",
+      "constituency": "GAJWEL",
+      "party": "TRS",
+      "criminal_cases": 2,
+      "education": "Graduate",
+      "assets": 151582464.0
+    },
+    {
+      "name": "Thatikonda Rajaiah",
+      "constituency": "GHANPUR (STATION)",
+      "party": "TRS",
+      "criminal_cases": 2,
+      "education": "Graduate Professional",
+      "assets": 34092822.0
+    },
+    {
+      "name": "T. Raja Singh",
+      "constituency": "GOSHAMAHAL",
+      "party": "BJP",
+      "criminal_cases": 19,
+      "education": "Literate",
+      "assets": 952738.0
+    },
+    {
+      "name": "Voditela Satish Kumar",
+      "constituency": "HUSNABAD",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": 21949948.0
+    },
+    {
+      "name": "Eatala Rajender",
+      "constituency": "HUZURABAD",
+      "party": "TRS",
+      "criminal_cases": 9,
+      "education": "Graduate",
+      "assets": 145103105.0
+    },
+    {
+      "name": "Uttam Kumar Reddy Nalamada",
+      "constituency": "HUZURNAGAR",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": 32371088.0
+    },
+    {
+      "name": "Manchireddy Kishan Reddy",
+      "constituency": "IBRAHIMPATNAM",
+      "party": "TDP",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": 79915000.0
+    },
+    {
+      "name": "Charlakola Laxma Reddy",
+      "constituency": "JADCHERLA",
+      "party": "TRS",
+      "criminal_cases": 2,
+      "education": "Graduate Professional",
+      "assets": 46784236.0
+    },
+    {
+      "name": "Jeevan Reddy Thatiparthi",
+      "constituency": "JAGTIAL",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": 18690000.0
+    },
+    {
+      "name": "Muthireddy Yadagiri Reddy",
+      "constituency": "JANGOAN",
+      "party": "TRS",
+      "criminal_cases": 12,
+      "education": "12th Pass",
+      "assets": 423854972.0
+    },
+    {
+      "name": "Maganti Gopinath",
+      "constituency": "JUBILEE HILLS",
+      "party": "TDP",
+      "criminal_cases": 2,
+      "education": "Graduate",
+      "assets": 62498393.0
+    },
+    {
+      "name": "Hanmanth Shinde",
+      "constituency": "JUKKAL",
+      "party": "TRS",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": 3666868.0
+    },
+    {
+      "name": "Challa Vamshichand Reddy",
+      "constituency": "KALWAKURTHY",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "12th Pass",
+      "assets": 13023887.0
+    },
+    {
+      "name": "Govardhan Gampa",
+      "constituency": "KAMAREDDY",
+      "party": "TRS",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": 8786866.0
+    },
+    {
+      "name": "Gangula Kamalakar",
+      "constituency": "KARIMNAGAR",
+      "party": "TRS",
+      "criminal_cases": 8,
+      "education": "Graduate Professional",
+      "assets": 147932569.0
+    },
+    {
+      "name": "Kausar Moinuddin",
+      "constituency": "KARWAN",
+      "party": "All India Majlis-E-Ittehadul Muslimeen",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": 2701928.0
+    },
+    {
+      "name": "Ram Chandra Reddy Chintala",
+      "constituency": "KHAIRATABAD",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Literate",
+      "assets": 56488158.0
+    },
+    {
+      "name": "Ajay Kumar Puvvada",
+      "constituency": "KHAMMAM",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": 198502679.0
+    },
+    {
+      "name": "Ajmera Rekha",
+      "constituency": "KHANAPUR",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": 26350242.0
+    },
+    {
+      "name": "Padmavathi Reddy Nalamada",
+      "constituency": "KODAD",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": 32371088.0
+    },
+    {
+      "name": "Anumula Revanth Reddy",
+      "constituency": "KODANGAL",
+      "party": "TDP",
+      "criminal_cases": 2,
+      "education": "Graduate",
+      "assets": 131278897.0
+    },
+    {
+      "name": "Jupally Krishna Rao",
+      "constituency": "KOLLAPUR",
+      "party": "TRS",
+      "criminal_cases": 8,
+      "education": "Graduate",
+      "assets": 6901669.0
+    },
+    {
+      "name": "Kalvakuntla Vidya Sagar Rao",
+      "constituency": "KORATLA",
+      "party": "TRS",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": 17061662.0
+    },
+    {
+      "name": "Jalagam Venkat Rao",
+      "constituency": "KOTHAGUDEM",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": 127649108.0
+    },
+    {
+      "name": "Madhavaram Krishna Rao",
+      "constituency": "KUKATPALLE",
+      "party": "TDP",
+      "criminal_cases": 0,
+      "education": "8th Pass",
+      "assets": 15540435.0
+    },
+    {
+      "name": "Ryaga Krishnaiah",
+      "constituency": "LAL BAHADUR NAGAR",
+      "party": "TDP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": 9511828.0
+    },
+    {
+      "name": "Bhatti Vikramarka Mallu",
+      "constituency": "MADHIRA",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": 29510291.0
+    },
+    {
+      "name": "Banoth Shankar Nayak",
+      "constituency": "MAHABUBABAD",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": 40261002.0
+    },
+    {
+      "name": "Srinivas Goud. V",
+      "constituency": "MAHBUBNAGAR",
+      "party": "TRS",
+      "criminal_cases": 2,
+      "education": "Post Graduate",
+      "assets": 39362400.0
+    },
+    {
+      "name": "Teegala Krishna Reddy",
+      "constituency": "MAHESWARAM",
+      "party": "TDP",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": 134550000.0
+    },
+    {
+      "name": "Chittem Ram Mohan Reddy",
+      "constituency": "MAKTHAL",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": 109730000.0
+    },
+    {
+      "name": "Ahmed Bin Abdullah Balala",
+      "constituency": "MALAKPET",
+      "party": "All India Majlis-E-Ittehadul Muslimeen",
+      "criminal_cases": 3,
+      "education": "10th Pass",
+      "assets": 59796364.0
+    },
+    {
+      "name": "C. Kanaka Reddy",
+      "constituency": "MALKAJGIRI",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": 28711538.0
+    },
+    {
+      "name": "Erupula Bala Kishan",
+      "constituency": "MANAKONDUR",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": 5700000.0
+    },
+    {
+      "name": "Diwakar Rao Nadipelli",
+      "constituency": "MANCHERIAL",
+      "party": "TRS",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": 25728126.0
+    },
+    {
+      "name": "Putta Madhukar",
+      "constituency": "MANTHANI",
+      "party": "TRS",
+      "criminal_cases": 6,
+      "education": "10th Pass",
+      "assets": 7180792.0
+    },
+    {
+      "name": "Madhava Reddy Gari Padma",
+      "constituency": "MEDAK",
+      "party": "TRS",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": 12200878.0
+    },
+    {
+      "name": "Malipedhi Sudheer Reddy",
+      "constituency": "MEDCHAL",
+      "party": "TRS",
+      "criminal_cases": 1,
+      "education": "12th Pass",
+      "assets": 31999054.0
+    },
+    {
+      "name": "Nallamothu Bhaskar Rao",
+      "constituency": "MIRYALAGUDA",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": 55988079.0
+    },
+    {
+      "name": "Gaddigari Vittal Reddy",
+      "constituency": "MUDHOLE",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": 3028357.0
+    },
+    {
+      "name": "Azmeera Chandulal",
+      "constituency": "MULUGU",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": 39373338.0
+    },
+    {
+      "name": "K.Prabhakar Reddy S/O Janga Reddy",
+      "constituency": "MUNUGODE",
+      "party": "TRS",
+      "criminal_cases": 2,
+      "education": "Graduate Professional",
+      "assets": 105548960.0
+    },
+    {
+      "name": "K Laxman",
+      "constituency": "MUSHEERABAD",
+      "party": "BJP",
+      "criminal_cases": 0,
+      "education": "Doctorate",
+      "assets": 50090482.0
+    },
+    {
+      "name": "Kunduru Jana Reddy",
+      "constituency": "NAGARJUNA SAGAR",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": 161851644.0
+    },
+    {
+      "name": "Marri Janardhan Reddy S/O Marri Jangi Reddy",
+      "constituency": "NAGARKURNOOL",
+      "party": "TRS",
+      "criminal_cases": 1,
+      "education": "10th Pass",
+      "assets": 1114864782.0
+    },
+    {
+      "name": "Vemula Veeresham",
+      "constituency": "NAKREKAL",
+      "party": "TRS",
+      "criminal_cases": 7,
+      "education": "Graduate",
+      "assets": 10017000.0
+    },
+    {
+      "name": "Komatireddy Venkat Reddy",
+      "constituency": "NALGONDA",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": 161322616.0
+    },
+    {
+      "name": "Jaffar Hussain",
+      "constituency": "NAMPALLY",
+      "party": "All India Majlis-E-Ittehadul Muslimeen",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": 73667986.0
+    },
+    {
+      "name": "Patlolla Kishta Reddy",
+      "constituency": "NARAYANKHED",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": 15400467.0
+    },
+    {
+      "name": "S Rajender Reddy",
+      "constituency": "NARAYANPET",
+      "party": "TDP",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": 293074955.0
+    },
+    {
+      "name": "Donthi Madhava Reddy",
+      "constituency": "NARSAMPET",
+      "party": "IND",
+      "criminal_cases": 1,
+      "education": "12th Pass",
+      "assets": 47405785.0
+    },
+    {
+      "name": "Chilumula Madan Reddy",
+      "constituency": "NARSAPUR",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": 4813600.0
+    },
+    {
+      "name": "Allolla Indra Karan Reddy",
+      "constituency": "NIRMAL",
+      "party": "BSP",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": 11602696.0
+    },
+    {
+      "name": "Goverdhan Baji Reddy",
+      "constituency": "NIZAMABAD (RURAL)",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": 24463824.0
+    },
+    {
+      "name": "Bigala Ganesh",
+      "constituency": "NIZAMABAD (URBAN)",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": 215674764.0
+    },
+    {
+      "name": "Venkatareddy Ramireddy",
+      "constituency": "PALAIR",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": 42127168.0
+    },
+    {
+      "name": "Dayakar Rao Errabelli",
+      "constituency": "PALAKURTHI",
+      "party": "TDP",
+      "criminal_cases": 7,
+      "education": "12th Pass",
+      "assets": 24780281.0
+    },
+    {
+      "name": "Tammannagari Ram Mohan Reddy",
+      "constituency": "PARGI",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": 136001502.0
+    },
+    {
+      "name": "Challa Dharma Reddy",
+      "constituency": "PARKAL",
+      "party": "TDP",
+      "criminal_cases": 1,
+      "education": "Graduate",
+      "assets": 127623871.0
+    },
+    {
+      "name": "G. Maipal Reddy",
+      "constituency": "PATANCHERU",
+      "party": "TRS",
+      "criminal_cases": 3,
+      "education": "10th Pass",
+      "assets": 78726359.0
+    },
+    {
+      "name": "Dasari Manohar Reddy",
+      "constituency": "PEDDAPALLE",
+      "party": "TRS",
+      "criminal_cases": 1,
+      "education": "Post Graduate",
+      "assets": 172787826.0
+    },
+    {
+      "name": "Payam Venkateswarlu",
+      "constituency": "PINAPAKA",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": 3140000.0
+    },
+    {
+      "name": "K.P. Vivekanand",
+      "constituency": "QUTHBULLAPUR",
+      "party": "TDP",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": 57031772.0
+    },
+    {
+      "name": "Tolkanti Prakash Goud",
+      "constituency": "RAJENDRANAGAR",
+      "party": "TDP",
+      "criminal_cases": 1,
+      "education": "5th Pass",
+      "assets": 63668511.0
+    },
+    {
+      "name": "Somarapu Satyanarayana",
+      "constituency": "RAMAGUNDAM",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "Post Graduate",
+      "assets": 66714232.0
+    },
+    {
+      "name": "Talasani Srinivas Yadav",
+      "constituency": "SANATHNAGAR",
+      "party": "TDP",
+      "criminal_cases": 4,
+      "education": "12th Pass",
+      "assets": 155687315.0
+    },
+    {
+      "name": "Chinta Prabhakar",
+      "constituency": "SANGAREDDY",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": 8569184.0
+    },
+    {
+      "name": "Sandra Venkata Veeraiah",
+      "constituency": "SATHUPALLE",
+      "party": "TDP",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": 6016785.0
+    },
+    {
+      "name": "Padma Rao.T",
+      "constituency": "SECUNDERABAD",
+      "party": "TRS",
+      "criminal_cases": 3,
+      "education": "10th Pass",
+      "assets": 7025000.0
+    },
+    {
+      "name": "G Sayanna",
+      "constituency": "SECUNDERABAD CANTT.",
+      "party": "TDP",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": 34735091.0
+    },
+    {
+      "name": "Arekapudi Gandhi",
+      "constituency": "SERILINGAMPALLY",
+      "party": "TDP",
+      "criminal_cases": 0,
+      "education": "10th Pass",
+      "assets": 554642581.0
+    },
+    {
+      "name": "Anjaiah Yelganamoni",
+      "constituency": "SHADNAGAR",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": 6262363.0
+    },
+    {
+      "name": "Thanneeru Harish Rao",
+      "constituency": "SIDDIPET",
+      "party": "TRS",
+      "criminal_cases": 5,
+      "education": "Graduate",
+      "assets": 29659608.0
+    },
+    {
+      "name": "K.Tarakarama Rao",
+      "constituency": "SIRCILLA",
+      "party": "TRS",
+      "criminal_cases": 4,
+      "education": "Post Graduate",
+      "assets": 79879749.0
+    },
+    {
+      "name": "Koneru Konappa",
+      "constituency": "SIRPUR",
+      "party": "BSP",
+      "criminal_cases": 1,
+      "education": "12th Pass",
+      "assets": 3405000.0
+    },
+    {
+      "name": "Guntakandla Jagadish Reddy",
+      "constituency": "SURYAPET",
+      "party": "TRS",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": 12293286.0
+    },
+    {
+      "name": "P. Mahender Reddy",
+      "constituency": "TANDUR",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "Graduate Professional",
+      "assets": 373772000.0
+    },
+    {
+      "name": "Gadari Kishore Kumar",
+      "constituency": "THUNGATHURTHI",
+      "party": "TRS",
+      "criminal_cases": 54,
+      "education": "Post Graduate",
+      "assets": 182328.0
+    },
+    {
+      "name": "Nvss Prabhakar",
+      "constituency": "UPPAL",
+      "party": "BJP",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": 5331929.0
+    },
+    {
+      "name": "Ramesh Chennamaneni",
+      "constituency": "VEMULAWADA",
+      "party": "TRS",
+      "criminal_cases": 1,
+      "education": "Doctorate",
+      "assets": 42750000.0
+    },
+    {
+      "name": "B.Sanjeeva Rao",
+      "constituency": "VICARABAD",
+      "party": "TRS",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": 1908000.0
+    },
+    {
+      "name": "Gillela Chinna Reddy",
+      "constituency": "WANAPARTHY",
+      "party": "INC",
+      "criminal_cases": 3,
+      "education": "Doctorate",
+      "assets": 11400000.0
+    },
+    {
+      "name": "Konda Surekha",
+      "constituency": "WARANGAL EAST",
+      "party": "TRS",
+      "criminal_cases": 3,
+      "education": "Graduate",
+      "assets": 40928000.0
+    },
+    {
+      "name": "Dasyam Vinay Bhasker",
+      "constituency": "WARANGAL WEST",
+      "party": "TRS",
+      "criminal_cases": 3,
+      "education": "Graduate",
+      "assets": 3169198.0
+    },
+    {
+      "name": "Aroori Ramesh",
+      "constituency": "WARDHANNAPET",
+      "party": "TRS",
+      "criminal_cases": 2,
+      "education": "Post Graduate",
+      "assets": 149452206.0
+    },
+    {
+      "name": "Banoth Madan Lal",
+      "constituency": "WYRA",
+      "party": "Yuvajana Sramika Rythu Congress Party",
+      "criminal_cases": 0,
+      "education": "Graduate",
+      "assets": 14907753.0
+    },
+    {
+      "name": "Mumtaz Ahmed Khan",
+      "constituency": "YAKUTPURA",
+      "party": "All India Majlis-E-Ittehadul Muslimeen",
+      "criminal_cases": 6,
+      "education": "12th Pass",
+      "assets": 166880701.0
+    },
+    {
+      "name": "Kanakaiah Koram",
+      "constituency": "YELLANDU",
+      "party": "INC",
+      "criminal_cases": 0,
+      "education": "12th Pass",
+      "assets": 3104000.0
+    },
+    {
+      "name": "Eanugu Ravinder Reddy",
+      "constituency": "YELLAREDDY",
+      "party": "TRS",
+      "criminal_cases": 4,
+      "education": "12th Pass",
+      "assets": 113942974.0
+    },
+    {
+      "name": "Jetty Geeta",
+      "constituency": "ZAHIRABAD",
+      "party": "INC",
+      "criminal_cases": 1,
+      "education": "Graduate Professional",
+      "assets": 208084835.0
+    }
+  ]
+}
