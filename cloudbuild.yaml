@@ -1,0 +1,12 @@
+steps:
+  # Build the server image (context is root '.' because of MANIFESTATION.json)
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/$PROJECT_ID/votesmart-api', '-f', 'server/Dockerfile', '.']
+  
+  # Build the client image (context is './client')
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/$PROJECT_ID/votesmart-web', '-f', 'client/Dockerfile', './client']
+
+images:
+  - 'gcr.io/$PROJECT_ID/votesmart-api'
+  - 'gcr.io/$PROJECT_ID/votesmart-web'
