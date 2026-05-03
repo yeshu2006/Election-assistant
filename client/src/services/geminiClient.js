@@ -30,10 +30,16 @@ const normalizeHistory = (history = []) =>
     .slice(-8);
 
 async function generateContent(model, contents, generationConfig = {}) {
-  const response = await fetch(`${GEMINI_BASE_URL}/${model}:generateContent?key=${GEMINI_API_KEY}`, {
+  const response = await fetch(`${GEMINI_BASE_URL}/${model}:generateContent`, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
+    headers: {
+      'Content-Type': 'application/json',
+      'x-goog-api-key': GEMINI_API_KEY,
+    },
     body: JSON.stringify({
+      system_instruction: {
+        parts: [{ text: SYSTEM_PROMPT }],
+      },
       contents,
       generationConfig: {
         temperature: 0.4,
@@ -44,30 +50,47 @@ async function generateContent(model, contents, generationConfig = {}) {
   });
 
   if (!response.ok) {
-    const errorText = await response.text();
-    throw new Error(errorText || 'Gemini request failed');
+    let message = 'Gemini request failed';
+    try {
+      const data = await response.json();
+      message = data.error?.message || message;
+    } catch {
+      message = await response.text();
+    }
+    throw new Error(message);
   }
 
   const data = await response.json();
   return data.candidates?.[0]?.content?.parts?.map((part) => part.text).join('').trim() || '';
 }
 
-export async function getChatResponse(message, history = []) {
+const languageInstruction = (language) => {
+  if (language === 'hi') {
+    return 'Respond only in Hindi using clear, simple Devanagari Hindi, unless the user explicitly asks for another language.';
+  }
+
+  if (language === 'en') {
+    return 'Respond only in English, unless the user explicitly asks for another language.';
+  }
+
+  return 'Detect the user language and respond in the same language.';
+};
+
+export async function getChatResponse(message, history = [], language = 'auto') {
   const contents = [
-    { role: 'user', parts: [{ text: SYSTEM_PROMPT }] },
-    { role: 'model', parts: [{ text: 'Understood. I will provide neutral and safe election assistance.' }] },
     ...normalizeHistory(history),
-    { role: 'user', parts: [{ text: message }] },
+    { role: 'user', parts: [{ text: `${languageInstruction(language)}\n\nUser question: ${message}` }] },
   ];
 
   const text = await generateContent(GEMINI_CHAT_MODEL, contents);
   return text || 'This information needs official verification.';
 }
 
-export async function verifyClaim(claim) {
+export async function verifyClaim(claim, language = 'auto') {
   const prompt = `
 Analyze the following political claim for authenticity:
 Claim: "${claim}"
+Language instruction: ${languageInstruction(language)}
 
 Return JSON only:
 {
@@ -79,7 +102,7 @@ Return JSON only:
 
   const text = await generateContent(
     GEMINI_VERIFY_MODEL,
-    [{ role: 'user', parts: [{ text: `${SYSTEM_PROMPT}\n\n${prompt}` }] }],
+    [{ role: 'user', parts: [{ text: prompt }] }],
     { temperature: 0.2, responseMimeType: 'application/json' },
   );
 

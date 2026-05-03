@@ -36,12 +36,20 @@ const FAQ_DATA = {
   ]
 };
 
-const SUGGESTIONS = [
-  "Check my voting eligibility",
-  "Find my polling booth",
-  "Voting process steps",
-  "Documents required"
-];
+const SUGGESTIONS = {
+  en: [
+    'Check my voting eligibility',
+    'Find my polling booth',
+    'Voting process steps',
+    'Documents required',
+  ],
+  hi: [
+    'मेरी मतदान पात्रता जांचें',
+    'मेरा मतदान केंद्र खोजें',
+    'मतदान प्रक्रिया के चरण',
+    'कौन से दस्तावेज चाहिए',
+  ],
+};
 
 const Assistant = () => {
   const theme = useTheme();
@@ -77,6 +85,7 @@ const Assistant = () => {
       const response = await getChatResponse(
         textToSend,
         messages.map(m => ({ role: m.role === 'user' ? 'user' : 'model', text: m.text })),
+        lang,
       );
 
       setMessages(prev => [...prev, { 
@@ -84,10 +93,12 @@ const Assistant = () => {
         text: response,
         timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
       }]);
-    } catch {
+    } catch (error) {
       setMessages(prev => [...prev, { 
         role: 'model', 
-        text: lang === 'en' ? "I'm having trouble connecting to my service." : "मुझे अपनी सेवा से जुड़ने में समस्या हो रही है।",
+        text: lang === 'en'
+          ? `Gemini is not available: ${error.message}`
+          : `Gemini उपलब्ध नहीं है: ${error.message}`,
         timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
       }]);
     } finally {
@@ -196,7 +207,7 @@ const Assistant = () => {
                     {lang === 'en' ? 'Ask me anything about voter registration, identification, or the voting process.' : 'मुझसे मतदाता पंजीकरण, पहचान, या मतदान प्रक्रिया के बारे में कुछ भी पूछें।'}
                   </Typography>
                   <Stack direction="row" spacing={1} flexWrap="wrap" justifyContent="center" useFlexGap sx={{ gap: 1.5 }}>
-                    {SUGGESTIONS.map((s, idx) => (
+                    {SUGGESTIONS[lang].map((s, idx) => (
                       <Chip 
                         key={idx} 
                         label={s} 

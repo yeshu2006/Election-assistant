@@ -41,10 +41,11 @@ const FloatingChatbot = () => {
           role: item.role === 'user' ? 'user' : 'model',
           text: item.content,
         })),
+        'auto',
       );
       setHistory(prev => [...prev, { role: 'assistant', content: response }]);
-    } catch {
-      setHistory(prev => [...prev, { role: 'assistant', content: 'Connection issue. Please retry.' }]);
+    } catch (error) {
+      setHistory(prev => [...prev, { role: 'assistant', content: `Gemini is not available: ${error.message}` }]);
     } finally {
       setLoading(false);
     }
