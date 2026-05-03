@@ -1,22 +1,21 @@
-import React, { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import { 
   Box, TextField, IconButton, Typography, 
-  Avatar, CircularProgress, Stack, useTheme,
-  Card, CardContent, Button, Divider,
+  Avatar, Stack, useTheme,
+  Button,
   Accordion, AccordionSummary, AccordionDetails,
-  Chip, Tooltip, Zoom, Fade, Badge,
+  Chip, Tooltip, Fade,
   useMediaQuery
 } from '@mui/material';
 import { 
-  Send, SmartToy, Help, Person, Search, 
-  Mic, ExpandMore, AutoAwesome, AccessTime, 
-  InfoOutlined, CheckCircle, Description, 
+  Send, SmartToy, Person, Search, 
+  Mic, ExpandMore, AutoAwesome,
+  CheckCircle, Description, 
   LocationOn, Rule, DateRange, Language,
-  VerifiedUser, HelpCenter, ArrowForward
+  HelpCenter, ArrowForward
 } from '@mui/icons-material';
-import axios from 'axios';
 import { motion, AnimatePresence } from 'framer-motion';
-import { API_BASE_URL } from '../config';
+import { getChatResponse } from '../services/geminiClient';
 
 const FAQ_DATA = {
   en: [
@@ -75,20 +74,17 @@ const Assistant = () => {
     setLoading(true);
 
     try {
-      const response = await axios.post(`${API_BASE_URL}/api/chat`, {
-        message: textToSend,
-        history: messages.map(m => ({
-          role: m.role,
-          parts: [{ text: m.text }]
-        }))
-      });
+      const response = await getChatResponse(
+        textToSend,
+        messages.map(m => ({ role: m.role === 'user' ? 'user' : 'model', text: m.text })),
+      );
 
       setMessages(prev => [...prev, { 
         role: 'model', 
-        text: response.data.response,
+        text: response,
         timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
       }]);
-    } catch (error) {
+    } catch {
       setMessages(prev => [...prev, { 
         role: 'model', 
         text: lang === 'en' ? "I'm having trouble connecting to my service." : "मुझे अपनी सेवा से जुड़ने में समस्या हो रही है।",

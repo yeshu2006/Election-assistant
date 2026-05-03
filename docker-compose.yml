@@ -1,19 +1,6 @@
 version: '3.8'
 
 services:
-  api:
-    build:
-      context: .
-      dockerfile: server/Dockerfile
-    container_name: votesmart-api
-    environment:
-      - PORT=5000
-      - GOOGLE_GEMINI_API_KEY=${GOOGLE_GEMINI_API_KEY}
-      - MONGODB_URI=${MONGODB_URI}
-    ports:
-      - "5000:5000"
-    restart: unless-stopped
-
   web:
     build:
       context: ./client
@@ -21,6 +8,4 @@ services:
     container_name: votesmart-web
     ports:
       - "80:80"
-    depends_on:
-      - api
     restart: unless-stopped

@@ -1,42 +1,22 @@
-import React, { useState, useEffect } from 'react';
+import { useState } from 'react';
 import {
   Box, Container, Typography, Grid, Card, CardContent, Paper,
   TextField, MenuItem, Chip, List, ListItem, ListItemText,
   useTheme, CircularProgress, Stack
 } from '@mui/material';
 import Assignment from '@mui/icons-material/Assignment';
-import TrendingUp from '@mui/icons-material/TrendingUp';
 import Flag from '@mui/icons-material/Flag';
 import EmojiEvents from '@mui/icons-material/EmojiEvents';
 import { motion } from 'framer-motion';
-import axios from 'axios';
-import { API_BASE_URL } from '../config';
+import manifestosData from '../data/manifestos.json';
 
 const PartyManifestos = () => {
   const theme = useTheme();
   const isDark = theme?.palette?.mode === 'dark';
 
-  const [manifestos, setManifestos] = useState([]);
+  const [manifestos] = useState(Array.isArray(manifestosData) ? manifestosData : []);
   const [selectedState, setSelectedState] = useState('');
-  const [loading, setLoading] = useState(true);
-
-  useEffect(() => {
-    let isMounted = true;
-
-    axios.get(`${API_BASE_URL}/api/manifestos`)
-      .then(res => {
-        const data = Array.isArray(res.data) ? res.data : (res.data?.data || []);
-        if (isMounted) setManifestos(Array.isArray(data) ? data : []);
-      })
-      .catch(err => console.error('Error fetching manifestos:', err))
-      .finally(() => {
-        if (isMounted) setLoading(false);
-      });
-
-    return () => {
-      isMounted = false;
-    };
-  }, []);
+  const loading = false;
 
   const allStatesSelected = selectedState === '';
 

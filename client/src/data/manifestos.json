@@ -1,0 +1,642 @@
+[
+  {
+    "state": "Gujarat",
+    "parties": [
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["Viksit Gujarat", "Renewable Hub", "Semiconductors"],
+          "promises": ["Self-reliant energy by 2030", "Doubling medical seats", "Satellite town development"],
+          "target_sectors": ["Students", "Tech Industry", "Farmers"],
+          "budget_focus": ["Infrastructure 40%", "Energy 30%", "Education 30%"]
+        }
+      },
+      {
+        "party": "INC",
+        "manifesto": {
+          "themes": ["Debt Relief", "Public Health", "Jobs"],
+          "promises": ["₹3 lakh farm loan waiver", "Free healthcare up to ₹25 lakh", "3,000 allowance for youth"],
+          "target_sectors": ["Farmers", "Unemployed", "Rural Families"],
+          "budget_focus": ["Health 45%", "Agri 35%", "Welfare 20%"]
+        }
+      },
+      {
+        "party": "AAP",
+        "manifesto": {
+          "themes": ["Delhi Model", "Education", "Electricity"],
+          "promises": ["300 units free power", "World-class govt schools", "Monthly allowance for women"],
+          "target_sectors": ["Women", "Middle Class", "Parents"],
+          "budget_focus": ["Education 40%", "Energy 35%", "Health 25%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Karnataka",
+    "parties": [
+      {
+        "party": "INC",
+        "manifesto": {
+          "themes": ["Five Guarantees", "State Autonomy"],
+          "promises": ["Gruha Lakshmi (₹2k for women)", "Yuva Nidhi", "Shakti free travel"],
+          "target_sectors": ["Women", "Graduates", "Laborers"],
+          "budget_focus": ["Welfare 60%", "Infrastructure 20%", "Education 20%"]
+        }
+      },
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["Namma Karnataka", "Digital Infra", "Religious Tourism"],
+          "promises": ["Uniform Civil Code study", "Free milk for poor families", "Startup capital for SC/ST"],
+          "target_sectors": ["Socio-economically backward", "Youth", "Pilgrims"],
+          "budget_focus": ["Infrastructure 45%", "Tech 30%", "Welfare 25%"]
+        }
+      },
+      {
+        "party": "JD(S)",
+        "manifesto": {
+          "themes": ["Pancharatna", "Irrigation", "Regional Identity"],
+          "promises": ["Comprehensive farm loan waiver", "Housing in every panchayat", "High-tech agri-labs"],
+          "target_sectors": ["Rural Farmers", "Landless Labor", "Local Artisans"],
+          "budget_focus": ["Agri 50%", "Housing 30%", "Welfare 20%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Rajasthan",
+    "parties": [
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["Lado Protsahan", "Water Security", "Security"],
+          "promises": ["LPG at ₹450", "Anti-Gangster Task Force", "₹2 lakh bond for girl child"],
+          "target_sectors": ["Women", "Businessmen", "Families"],
+          "budget_focus": ["Security 35%", "Welfare 35%", "Tourism 30%"]
+        }
+      },
+      {
+        "party": "INC",
+        "manifesto": {
+          "themes": ["Chiranjeevi Health", "English Schools", "Rural Jobs"],
+          "promises": ["₹50 lakh health cover", "Rural English medium schools", "Smartphone for women"],
+          "target_sectors": ["Women", "Students", "Rural Poor"],
+          "budget_focus": ["Health 50%", "Education 30%", "Welfare 20%"]
+        }
+      },
+      {
+        "party": "RLP",
+        "manifesto": {
+          "themes": ["Youth Power", "Toll-Free Roads", "Farming"],
+          "promises": ["Free toll for local vehicles", "Sports universities", "Direct seed subsidy"],
+          "target_sectors": ["Youth", "Farmers", "Transporters"],
+          "budget_focus": ["Infrastructure 40%", "Sports 30%", "Agri 30%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Punjab",
+    "parties": [
+      {
+        "party": "AAP",
+        "manifesto": {
+          "themes": ["Energy", "Health", "Anti-Drug"],
+          "promises": ["300 units free power", "Mohalla Clinics", "₹1,000 for women"],
+          "target_sectors": ["Middle Class", "Women", "Youth"],
+          "budget_focus": ["Subsidies 50%", "Health 30%", "Security 20%"]
+        }
+      },
+      {
+        "party": "SAD",
+        "manifesto": {
+          "themes": ["Panthic Identity", "Farm Markets", "Heritage"],
+          "promises": ["Strengthening Mandis", "Support for religious tourism", "Free tech education"],
+          "target_sectors": ["Sikh Community", "Farmers", "Students"],
+          "budget_focus": ["Agri 45%", "Culture 30%", "Education 25%"]
+        }
+      },
+      {
+        "party": "INC",
+        "manifesto": {
+          "themes": ["Debt Waiver", "Digital Jobs", "Sports"],
+          "promises": ["Total farm debt relief", "Smart villages", "Medals to jobs scheme"],
+          "target_sectors": ["Farmers", "Rural Youth", "Athletes"],
+          "budget_focus": ["Agri 40%", "Welfare 40%", "Infrastructure 20%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Haryana",
+    "parties": [
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["Lado Lakshmi", "Industrial Townships", "MSP"],
+          "promises": ["₹2,100 monthly for women", "MSP for 24 crops", "10 Industrial Hubs"],
+          "target_sectors": ["Women", "Farmers", "Industry"],
+          "budget_focus": ["Welfare 40%", "Agri 35%", "Industry 25%"]
+        }
+      },
+      {
+        "party": "INC",
+        "manifesto": {
+          "themes": ["OPS", "Old Age Pension", "Employment"],
+          "promises": ["Restore OPS", "₹6,000 old age pension", "Filling 2 lakh govt vacancies"],
+          "target_sectors": ["Govt Employees", "Senior Citizens", "Youth"],
+          "budget_focus": ["Social Security 50%", "Employment 30%", "Welfare 20%"]
+        }
+      },
+      {
+        "party": "INLD",
+        "manifesto": {
+          "themes": ["Rural Focus", "Sports", "Local Jobs"],
+          "promises": ["75% local quota in private jobs", "Wrestling academies", "Direct cash for marriages"],
+          "target_sectors": ["Rural Youth", "Athletes", "Poor Families"],
+          "budget_focus": ["Employment 40%", "Sports 30%", "Welfare 30%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Jharkhand",
+    "parties": [
+      {
+        "party": "JMM",
+        "manifesto": {
+          "themes": ["Adivasi Rights", "Local Identity", "Welfare"],
+          "promises": ["Sarna Code recognition", "Maiya Samman (₹2.5k)", "Local language in schools"],
+          "target_sectors": ["Tribals", "Women", "Teachers"],
+          "budget_focus": ["Culture 40%", "Welfare 40%", "Education 20%"]
+        }
+      },
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["Gogo Didi", "Mining Efficiency", "Corruption"],
+          "promises": ["₹2,100 for women", "Digital mining trackers", "Central probe into leaks"],
+          "target_sectors": ["Women", "Industrialists", "Youth"],
+          "budget_focus": ["Welfare 45%", "Industry 30%", "Security 25%"]
+        }
+      },
+      {
+        "party": "AJSU",
+        "manifesto": {
+          "themes": ["Youth Leadership", "Regional Pride", "Skill"],
+          "promises": ["Skill centers in blocks", "Forest rights support", "Self-employment grants"],
+          "target_sectors": ["Youth", "Forest Dwellers", "Entrepreneurs"],
+          "budget_focus": ["Skill Dev 40%", "Social 30%", "Infrastructure 30%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Odisha",
+    "parties": [
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["Odia Asmita", "Subhadra Yojana", "Agri-MSP"],
+          "promises": ["₹50k voucher for women", "Paddy MSP ₹3,100", "Ayushman Bharat launch"],
+          "target_sectors": ["Women", "Farmers", "Health"],
+          "budget_focus": ["Welfare 45%", "Agri 30%", "Health 25%"]
+        }
+      },
+      {
+        "party": "BJD",
+        "manifesto": {
+          "themes": ["Naveen Odisha", "SHGs", "Infrastructure"],
+          "promises": ["BSKY Health extension", "10 lakh for Mission Shakti", "Metro in Bhubaneswar"],
+          "target_sectors": ["Women SHGs", "Urban Residents", "Health"],
+          "budget_focus": ["Health 40%", "Welfare 35%", "Infrastructure 25%"]
+        }
+      },
+      {
+        "party": "INC",
+        "manifesto": {
+          "themes": ["Employment", "Electricity", "Fisheries"],
+          "promises": ["200 units free power", "₹3,000 youth allowance", "Blue Revolution subsidy"],
+          "target_sectors": ["Youth", "Fishermen", "Consumers"],
+          "budget_focus": ["Energy 40%", "Welfare 30%", "Agri 30%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Telangana",
+    "parties": [
+      {
+        "party": "INC",
+        "manifesto": {
+          "themes": ["Six Guarantees", "Social Justice"],
+          "promises": ["₹2,500 for women", "₹2 lakh farm loan waiver", "500 gas cylinders"],
+          "target_sectors": ["Women", "Farmers", "BPL Families"],
+          "budget_focus": ["Welfare 55%", "Agri 25%", "Education 20%"]
+        }
+      },
+      {
+        "party": "BRS",
+        "manifesto": {
+          "themes": ["Bangaru Telangana", "Irrigation", "IT Hub"],
+          "promises": ["Rythu Bandhu increase", "Digital education for all", "Expansion of Kaleshwaram"],
+          "target_sectors": ["Farmers", "Tech Employees", "Students"],
+          "budget_focus": ["Infrastructure 45%", "Agri 30%", "Tech 25%"]
+        }
+      },
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["Development", "Identity", "Accountability"],
+          "promises": ["BC CM candidate promise", "Free fertilizer to farmers", "Vande Bharat expansion"],
+          "target_sectors": ["Backward Classes", "Farmers", "Commuters"],
+          "budget_focus": ["Infrastructure 40%", "Agri 35%", "Welfare 25%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Madhya Pradesh",
+    "parties": [
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["Ladli Behna", "Vikas", "Tribal Dev"],
+          "promises": ["₹3,000 for women", "Wheat MSP ₹2,700", "LPG at ₹450"],
+          "target_sectors": ["Women", "Farmers", "Tribal Pop"],
+          "budget_focus": ["Welfare 50%", "Agri 30%", "Infrastructure 20%"]
+        }
+      },
+      {
+        "party": "INC",
+        "manifesto": {
+          "themes": ["Krishi Nyay", "Old Pension", "Jobs"],
+          "promises": ["Farm loan waiver", "OPS restoration", "₹1,500 Nari Samman"],
+          "target_sectors": ["Farmers", "Govt Employees", "Women"],
+          "budget_focus": ["Social Security 45%", "Agri 35%", "Welfare 20%"]
+        }
+      },
+      {
+        "party": "BSP",
+        "manifesto": {
+          "themes": ["Caste Equality", "Housing", "Security"],
+          "promises": ["Housing for landless", "Fair police reforms", "Caste census advocacy"],
+          "target_sectors": ["Dalits", "Minorities", "Landless"],
+          "budget_focus": ["Housing 45%", "Welfare 35%", "Security 20%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Chhattisgarh",
+    "parties": [
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["Modi Guarantee", "Agri Bonus", "Women"],
+          "promises": ["Paddy MSP ₹3,100", "₹12k/year for women", "Ram Lalla Darshan scheme"],
+          "target_sectors": ["Farmers", "Women", "Pilgrims"],
+          "budget_focus": ["Agri 45%", "Welfare 35%", "Culture 20%"]
+        }
+      },
+      {
+        "party": "INC",
+        "manifesto": {
+          "themes": ["Nyay", "Forest Wealth", "Labor"],
+          "promises": ["₹15k/year for farmers", "₹10k for landless labor", "Increased Tendu leaf price"],
+          "target_sectors": ["Farmers", "Tribals", "Laborers"],
+          "budget_focus": ["Agri 40%", "Labor 35%", "Welfare 25%"]
+        }
+      },
+      {
+        "party": "JCC(J)",
+        "manifesto": {
+          "themes": ["Regional Pride", "Youth Jobs", "Agri"],
+          "promises": ["Direct youth allowance", "Local language preference", "Micro-irrigation units"],
+          "target_sectors": ["Rural Youth", "Linguistic groups", "Small Farmers"],
+          "budget_focus": ["Employment 40%", "Agri 30%", "Welfare 30%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Himachal Pradesh",
+    "parties": [
+      {
+        "party": "INC",
+        "manifesto": {
+          "themes": ["10 Guarantees", "OPS", "Horticulture"],
+          "promises": ["Restore OPS", "₹1,500/month for women", "300 units free power"],
+          "target_sectors": ["Employees", "Women", "Apple Farmers"],
+          "budget_focus": ["Social Security 50%", "Agri 30%", "Energy 20%"]
+        }
+      },
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["Stree Shakti", "Hill Infra", "Jobs"],
+          "promises": ["33% women quota in jobs", "₹50k scholarship for girls", "Bicycle for students"],
+          "target_sectors": ["Women", "Students", "Tourism Owners"],
+          "budget_focus": ["Welfare 40%", "Education 35%", "Infrastructure 25%"]
+        }
+      },
+      {
+        "party": "AAP",
+        "manifesto": {
+          "themes": ["Corrupt-Free", "Health", "Tourism"],
+          "promises": ["End corruption in transfer", "Modern govt clinics", "Homestay tax relief"],
+          "target_sectors": ["Govt Employees", "Families", "Tourism Sector"],
+          "budget_focus": ["Health 40%", "Governance 30%", "Tourism 30%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Uttarakhand",
+    "parties": [
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["UCC", "Pilgrimage", "Border Safety"],
+          "promises": ["UCC implementation", "Char Dham infra", "Vibrant Village program"],
+          "target_sectors": ["General Pop", "Pilgrims", "Border Residents"],
+          "budget_focus": ["Infrastructure 40%", "Culture 35%", "Safety 25%"]
+        }
+      },
+      {
+        "party": "INC",
+        "manifesto": {
+          "themes": ["Employment", "LPG Control", "Environmental Safety"],
+          "promises": ["₹500 LPG cylinder", "Anti-migration jobs", "Flood safety walls"],
+          "target_sectors": ["Women", "Youth", "River-bank residents"],
+          "budget_focus": ["Subsidies 45%", "Environment 30%", "Jobs 25%"]
+        }
+      },
+      {
+        "party": "UKD",
+        "manifesto": {
+          "themes": ["Regional Autonomy", "Forest Rights", "Hill Dev"],
+          "promises": ["Gairsain as permanent capital", "Total forest rights", "Himalayan university"],
+          "target_sectors": ["Hill residents", "Tribals", "Students"],
+          "budget_focus": ["Governance 40%", "Education 30%", "Forest 30%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Goa",
+    "parties": [
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["Swayampurna Goa", "Tourism", "IT"],
+          "promises": ["3 free cylinders", "Mopa Airport expansion", "Cyberage laptops"],
+          "target_sectors": ["BPL", "Tourism", "Students"],
+          "budget_focus": ["Tourism 40%", "Tech 30%", "Welfare 30%"]
+        }
+      },
+      {
+        "party": "INC",
+        "manifesto": {
+          "themes": ["Environment", "Youth Jobs", "Anti-Corruption"],
+          "promises": ["Scrapping three linear projects", "₹3,000 for youth", "Local employment act"],
+          "target_sectors": ["Environmentalists", "Youth", "Laborers"],
+          "budget_focus": ["Environment 40%", "Employment 35%", "Social 25%"]
+        }
+      },
+      {
+        "party": "AAP",
+        "manifesto": {
+          "themes": ["Free Power", "Mining Restart", "Health"],
+          "promises": ["Restart legal mining", "300 units free power", "Mohalla clinics"],
+          "target_sectors": ["Mining Workers", "Middle Class", "Health Seekers"],
+          "budget_focus": ["Energy 35%", "Mining/Industry 35%", "Health 30%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Manipur",
+    "parties": [
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["Peace", "Border Fence", "Education"],
+          "promises": ["Zero insurgency", "Tablets for Class 12", "Free water for all"],
+          "target_sectors": ["Students", "Families", "Security forces"],
+          "budget_focus": ["Security 40%", "Education 30%", "Welfare 30%"]
+        }
+      },
+      {
+        "party": "INC",
+        "manifesto": {
+          "themes": ["Human Rights", "Price Control", "Youth"],
+          "promises": ["AFSPA repeal advocacy", "₹500 cylinders", "Unemployment doles"],
+          "target_sectors": ["Civil Society", "Women", "Youth"],
+          "budget_focus": ["Welfare 45%", "Safety 30%", "Employment 25%"]
+        }
+      },
+      {
+        "party": "NPP",
+        "manifesto": {
+          "themes": ["Connectivity", "Agri Hub", "Culture"],
+          "promises": ["Direct market for farmers", "Regional air connectivity", "Heritage preservation"],
+          "target_sectors": ["Farmers", "Traders", "Artisans"],
+          "budget_focus": ["Logistics 40%", "Agri 30%", "Culture 30%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Meghalaya",
+    "parties": [
+      {
+        "party": "NPP",
+        "manifesto": {
+          "themes": ["FOCUS", "Youth Hubs", "Tourism"],
+          "promises": ["Farmer cash transfers", "5 lakh jobs", "Residential model schools"],
+          "target_sectors": ["Farmers", "Youth", "Students"],
+          "budget_focus": ["Agri 40%", "Education 30%", "Tourism 30%"]
+        }
+      },
+      {
+        "party": "UDP",
+        "manifesto": {
+          "themes": ["Regional Identity", "Mining Law", "Education"],
+          "promises": ["Scientific coal mining", "Regional language schools", "Panchayat empowerment"],
+          "target_sectors": ["Miners", "Rural Pop", "Linguistic groups"],
+          "budget_focus": ["Industry 40%", "Governance 30%", "Education 30%"]
+        }
+      },
+      {
+        "party": "TMC",
+        "manifesto": {
+          "themes": ["WE Card", "Health Care", "Jobs"],
+          "promises": ["₹1,000 for women", "Upgraded block hospitals", "Monthly youth allowance"],
+          "target_sectors": ["Women", "Health Seekers", "Graduates"],
+          "budget_focus": ["Welfare 45%", "Health 30%", "Employment 25%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Nagaland",
+    "parties": [
+      {
+        "party": "NDPP",
+        "manifesto": {
+          "themes": ["Naga Issue", "Sports Hub", "Infra"],
+          "promises": ["Political solution support", "High-performance sports center", "All-weather roads"],
+          "target_sectors": ["Youth", "Athletes", "General Pop"],
+          "budget_focus": ["Infrastructure 40%", "Sports 30%", "Culture 30%"]
+        }
+      },
+      {
+        "party": "NPF",
+        "manifesto": {
+          "themes": ["Cultural Autonomy", "Rural Agri", "Self-Reliance"],
+          "promises": ["Traditional law protection", "Local produce marketing", "Skill training blocks"],
+          "target_sectors": ["Tribals", "Farmers", "Artisans"],
+          "budget_focus": ["Culture 40%", "Agri 35%", "Skill Dev 25%"]
+        }
+      },
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["Border Trade", "Technology", "Women"],
+          "promises": ["Act East trade hubs", "Free internet for colleges", "₹25k for girl child"],
+          "target_sectors": ["Traders", "Students", "Women"],
+          "budget_focus": ["Infrastructure 45%", "Tech 30%", "Welfare 25%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Mizoram",
+    "parties": [
+      {
+        "party": "ZPM",
+        "manifesto": {
+          "themes": ["Anti-Corruption", "Hand-holding", "Agri"],
+          "promises": ["Minimum floor price for ginger/chilli", "Paperless admin", "Startup seed money"],
+          "target_sectors": ["Farmers", "Youth", "Govt staff"],
+          "budget_focus": ["Agri 45%", "Governance 30%", "Tech 25%"]
+        }
+      },
+      {
+        "party": "MNF",
+        "manifesto": {
+          "themes": ["Zo Identity", "Socialism", "SEDP"],
+          "promises": ["Support for Zo diaspora", "Expansion of SEDP grants", "Medical insurance for all"],
+          "target_sectors": ["Families", "Cultural groups", "Health seekers"],
+          "budget_focus": ["Welfare 40%", "Culture 35%", "Health 25%"]
+        }
+      },
+      {
+        "party": "INC",
+        "manifesto": {
+          "themes": ["Youth Employment", "Health Infra", "Education"],
+          "promises": ["Direct youth jobs", "Block level hospitals", "Mobile libraries"],
+          "target_sectors": ["Youth", "Rural families", "Students"],
+          "budget_focus": ["Employment 40%", "Health 30%", "Education 30%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Arunachal Pradesh",
+    "parties": [
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["Connectivity", "Hydropower", "Tribal Dev"],
+          "promises": ["Vibrant Village program", "₹50k for girl child", "100% tap water"],
+          "target_sectors": ["Tribals", "Border residents", "Farmers"],
+          "budget_focus": ["Infrastructure 50%", "Power 25%", "Welfare 25%"]
+        }
+      },
+      {
+        "party": "INC",
+        "manifesto": {
+          "themes": ["Local Autonomy", "Forest Jobs", "LPG"],
+          "promises": ["Total forest rights", "LPG at ₹500", "State recruitment drive"],
+          "target_sectors": ["Tribals", "Women", "Youth"],
+          "budget_focus": ["Welfare 45%", "Environment 30%", "Jobs 25%"]
+        }
+      },
+      {
+        "party": "PPA",
+        "manifesto": {
+          "themes": ["Regional Identity", "Traditional Laws", "Agri-Industry"],
+          "promises": ["Protection of tribal customary law", "Tea/Rubber units", "State heritage board"],
+          "target_sectors": ["Tribals", "Farmers", "Artisans"],
+          "budget_focus": ["Culture 40%", "Agri 35%", "Social 25%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Sikkim",
+    "parties": [
+      {
+        "party": "SKM",
+        "manifesto": {
+          "themes": ["Social Security", "Sikkim Awas", "Organic"],
+          "promises": ["₹10 lakh house subsidy", "1 lakh jobs", "Organic market links"],
+          "target_sectors": ["BPL families", "Youth", "Farmers"],
+          "budget_focus": ["Housing 40%", "Welfare 30%", "Agri 30%"]
+        }
+      },
+      {
+        "party": "SDF",
+        "manifesto": {
+          "themes": ["Green Sikkim", "UCC Opposition", "Health"],
+          "promises": ["Opposition to UCC", "Free health screening for all", "Green technology grants"],
+          "target_sectors": ["General Pop", "Health Seekers", "Entrepreneurs"],
+          "budget_focus": ["Welfare 40%", "Health 35%", "Environment 25%"]
+        }
+      },
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["Central Integration", "Tourism", "Tech"],
+          "promises": ["Railway to Gangtok completion", "Smart cities", "Direct central grants to Panchayats"],
+          "target_sectors": ["Urban Voters", "Commuters", "Panchayat heads"],
+          "budget_focus": ["Infrastructure 50%", "Governance 25%", "Tech 25%"]
+        }
+      }
+    ]
+  },
+  {
+    "state": "Tripura",
+    "parties": [
+      {
+        "party": "BJP",
+        "manifesto": {
+          "themes": ["Tribal Dev", "Digital Education", "Welfare"],
+          "promises": ["Increased ADC power", "Smartphone for youth", "Meal scheme for elderly"],
+          "target_sectors": ["Tribals", "Students", "Elderly"],
+          "budget_focus": ["Welfare 40%", "Education 30%", "Tribal 30%"]
+        }
+      },
+      {
+        "party": "TIPRA Motha",
+        "manifesto": {
+          "themes": ["Greater Tipraland", "Indigenous Rights", "Agri"],
+          "promises": ["Land rights for indigineous", "Constitutional solution for tribals", "Rubber/Bamboo processing"],
+          "target_sectors": ["Tribals", "Farmers", "Cultural groups"],
+          "budget_focus": ["Culture 50%", "Agri 25%", "Social 25%"]
+        }
+      },
+      {
+        "party": "CPI(M)",
+        "manifesto": {
+          "themes": ["Labor", "Democratic Rights", "Prices"],
+          "promises": ["MGNREGA to 200 days", "Free electricity for poor", "Restoration of trade unions"],
+          "target_sectors": ["Laborers", "Poor families", "Activists"],
+          "budget_focus": ["Welfare 50%", "Labor 30%", "Energy 20%"]
+        }
+      }
+    ]
+  }
+]

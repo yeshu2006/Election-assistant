@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { useLocation } from 'react-router-dom';
 import { 
   Box, Fab, Paper, Typography, TextField, 
-  IconButton, Avatar, Fade, useTheme, Divider,
+  IconButton, Avatar, Fade, useTheme,
   LinearProgress
 } from '@mui/material';
 import Chat from '@mui/icons-material/Chat';
@@ -10,8 +10,7 @@ import Close from '@mui/icons-material/Close';
 import Send from '@mui/icons-material/Send';
 import Help from '@mui/icons-material/Help';
 import Lightbulb from '@mui/icons-material/Lightbulb';
-import axios from 'axios';
-import { API_BASE_URL } from '../config';
+import { getChatResponse } from '../services/geminiClient';
 
 const FloatingChatbot = () => {
   const location = useLocation();
@@ -36,12 +35,15 @@ const FloatingChatbot = () => {
     setLoading(true);
 
     try {
-      const res = await axios.post(`${API_BASE_URL}/api/chat`, { 
-        message: message,
-        history: history.slice(-5)
-      });
-      setHistory(prev => [...prev, { role: 'assistant', content: res.data.response }]);
-    } catch (error) {
+      const response = await getChatResponse(
+        message,
+        history.slice(-5).map((item) => ({
+          role: item.role === 'user' ? 'user' : 'model',
+          text: item.content,
+        })),
+      );
+      setHistory(prev => [...prev, { role: 'assistant', content: response }]);
+    } catch {
       setHistory(prev => [...prev, { role: 'assistant', content: 'Connection issue. Please retry.' }]);
     } finally {
       setLoading(false);

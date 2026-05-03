@@ -1,10 +1,9 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Box, Typography, TextField, Button, Card, CardContent, CircularProgress, Alert, LinearProgress, Container } from '@mui/material';
 import FactCheck from '@mui/icons-material/FactCheck';
 import Shield from '@mui/icons-material/Shield';
 import Help from '@mui/icons-material/Help';
-import axios from 'axios';
-import { API_BASE_URL } from '../config';
+import { verifyClaim } from '../services/geminiClient';
 
 const FakeNews = () => {
   const [claim, setClaim] = useState('');
@@ -16,10 +15,15 @@ const FakeNews = () => {
     setLoading(true);
     setResult(null);
     try {
-      const res = await axios.post(`${API_BASE_URL}/api/verify`, { claim });
-      setResult(res.data);
+      const analysis = await verifyClaim(claim);
+      setResult(analysis);
     } catch (error) {
       console.error(error);
+      setResult({
+        likelihood: 'Needs Verification',
+        confidence: 0,
+        explanation: 'Could not reach Gemini. Please verify this claim with official ECI or PIB Fact Check sources.',
+      });
     } finally {
       setLoading(false);
     }

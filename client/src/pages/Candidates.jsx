@@ -1,20 +1,18 @@
-import React, { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { 
-  Box, Typography, Grid, Card, CardContent, Chip, LinearProgress, 
+  Box, Typography, Grid, Card, Chip, LinearProgress, 
   Avatar, TextField, MenuItem, Button, InputAdornment, Alert, 
-  Tabs, Tab, Divider, Container, Skeleton
+  Divider, Container, Skeleton
 } from '@mui/material';
-import Security from '@mui/icons-material/Security';
 import School from '@mui/icons-material/School';
 import AccountBalance from '@mui/icons-material/AccountBalance';
 import Gavel from '@mui/icons-material/Gavel';
 import Search from '@mui/icons-material/Search';
 import LocationOn from '@mui/icons-material/LocationOn';
 import Stars from '@mui/icons-material/Stars';
-import Assignment from '@mui/icons-material/Assignment';
-import axios from 'axios';
 import ManifestoCard from '../components/ManifestoCard';
-import { API_BASE_URL } from '../config';
+import manifestosData from '../data/manifestos.json';
+import { fetchCandidates } from '../services/candidateService';
 
 const calculateTransparencyScore = (candidate) => {
   if (!candidate) return 0;
@@ -36,38 +34,20 @@ const calculateTransparencyScore = (candidate) => {
 
 const Candidates = () => {
   const [candidates, setCandidates] = useState([]);
-  const [manifestos, setManifestos] = useState([]);
+  const [manifestos] = useState(Array.isArray(manifestosData) ? manifestosData : []);
   const [loading, setLoading] = useState(false);
   const [searchState, setSearchState] = useState({
     type: 'mps',
     state: 'Delhi',
     constituency: ''
   });
-  const [tabValue, setTabValue] = useState(0);
-
-  useEffect(() => {
-    fetchManifestos();
-  }, []);
-
-  const fetchManifestos = async () => {
-    try {
-      const res = await axios.get(`${API_BASE_URL}/api/manifestos`);
-      const data = Array.isArray(res.data) ? res.data : (res.data?.data || []);
-      setManifestos(Array.isArray(data) ? data : []);
-    } catch (error) {
-      console.error('Failed to fetch manifestos', error);
-    }
-  };
 
   const handleSearch = async () => {
     setLoading(true);
     try {
       const { type, state, constituency } = searchState;
-      const res = await axios.get(`${API_BASE_URL}/api/candidates`, {
-        params: { type, state, constituency }
-      });
-      const data = Array.isArray(res.data) ? res.data : (res.data?.data || []);
-      setCandidates(Array.isArray(data) ? data : []);
+      const data = await fetchCandidates({ type, state, constituency });
+      setCandidates(data);
     } catch (error) {
       console.error('Failed to fetch candidates', error);
     } finally {

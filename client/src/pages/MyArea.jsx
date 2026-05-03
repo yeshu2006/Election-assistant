@@ -1,18 +1,16 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { 
   Box, Typography, TextField, Button, Grid, 
-  Card, CardContent, List, ListItem, ListItemText, 
+  Card, CardContent,
   Divider, Alert, Container, Paper, Stack,
   useTheme, CircularProgress, Skeleton
 } from '@mui/material';
 import Search from '@mui/icons-material/Search';
-import MapIcon from '@mui/icons-material/Map';
 import LocationOn from '@mui/icons-material/LocationOn';
 import OpenInNew from '@mui/icons-material/OpenInNew';
 import HowToVote from '@mui/icons-material/HowToVote';
-import axios from 'axios';
 import { motion } from 'framer-motion';
-import { API_BASE_URL } from '../config';
+import { searchElectionInfo } from '../data/electionData';
 
 const MyArea = () => {
   const [address, setAddress] = useState('');
@@ -25,29 +23,24 @@ const MyArea = () => {
   const handleSearch = async () => {
     if (!address) return;
     setLoading(true);
-    try {
-      const geoRes = await axios.post(`${API_BASE_URL}/api/geocode`, { address });
-      if (geoRes.data.status === 'OK') {
-        const { lat, lng } = geoRes.data.results[0].geometry.location;
-        setResults({
-          lat,
-          lng,
-          formatted: geoRes.data.results[0].formatted_address
-        });
-
-        const boothRes = await axios.get(`${API_BASE_URL}/api/booths?lat=${lat}&lng=${lng}`);
-        const data = Array.isArray(boothRes.data) ? boothRes.data : (boothRes.data?.data || []);
-        setBooths(Array.isArray(data) ? data : []);
-      }
-    } catch (error) {
-      console.error(error);
-    } finally {
+    window.setTimeout(() => {
+      const matches = searchElectionInfo(address);
+      const bestMatch = matches[0] || null;
+      setResults(bestMatch ? {
+        formatted: `${bestMatch.matchedLocation}, ${bestMatch.state}`,
+        state: bestMatch.state,
+        type: bestMatch.type,
+        ceo: bestMatch.ceo,
+        ceoWebsite: bestMatch.ceoWebsite,
+        helpline: bestMatch.helpline,
+      } : null);
+      setBooths(bestMatch?.filteredBooths || []);
       setLoading(false);
-    }
+    }, 250);
   };
 
-  const openInMaps = (lat, lng) => {
-    window.open(`https://www.google.com/maps/search/?api=1&query=${lat},${lng}`, '_blank');
+  const openInMaps = (query) => {
+    window.open(`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`, '_blank');
   };
 
   return (
@@ -68,7 +61,7 @@ const MyArea = () => {
           </Typography>
           <Typography variant="body1" sx={{ color: 'text.secondary', maxWidth: 600, mx: 'auto' }}>
             Enter your location to find the nearest election polling stations. 
-            Official data provided by the Election Commission.
+            Search curated Indian election area data and polling station examples.
           </Typography>
         </motion.div>
       </Box>
@@ -118,8 +111,17 @@ const MyArea = () => {
                 <Typography variant="h5" sx={{ fontWeight: 800, mt: 1, mb: 3 }}>{results.formatted}</Typography>
                 <Divider sx={{ mb: 3 }} />
                 <Typography variant="body2" sx={{ color: 'text.secondary', fontWeight: 600 }}>
-                  Searching within a 5km radius of your area for active polling stations.
+                  CEO: {results.ceo} • Helpline: {results.helpline}
                 </Typography>
+                <Button
+                  href={results.ceoWebsite}
+                  target="_blank"
+                  rel="noreferrer"
+                  endIcon={<OpenInNew />}
+                  sx={{ mt: 2, borderRadius: 0, fontWeight: 800, textTransform: 'none' }}
+                >
+                  Official CEO Website
+                </Button>
               </CardContent>
             </Card>
           </Grid>
@@ -148,18 +150,14 @@ const MyArea = () => {
                   <Card key={i} sx={{ borderRadius: 0, border: '1px solid', borderColor: 'divider', transition: 'all 0.2s ease', '&:hover': { borderColor: 'primary.main', bgcolor: isDark ? 'rgba(255,255,255,0.02)' : 'rgba(0,0,0,0.01)' } }}>
                     <CardContent sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', p: 3 }}>
                       <Box>
-                        <Typography variant="subtitle1" sx={{ fontWeight: 900, mb: 0.5 }}>{booth.ps_name}</Typography>
-                        <Typography variant="body2" sx={{ color: 'text.secondary', fontWeight: 600 }}>{booth.ac}, {booth.district}</Typography>
-                        <Typography variant="caption" sx={{ color: 'primary.main', fontWeight: 900, display: 'block', mt: 1 }}>BOOTH NO: {booth.ps_number}</Typography>
+                        <Typography variant="subtitle1" sx={{ fontWeight: 900, mb: 0.5 }}>{booth.name}</Typography>
+                        <Typography variant="body2" sx={{ color: 'text.secondary', fontWeight: 600 }}>{booth.address}</Typography>
+                        <Typography variant="caption" sx={{ color: 'primary.main', fontWeight: 900, display: 'block', mt: 1 }}>BOOTH: {booth.id} • {booth.constituency}</Typography>
                       </Box>
                       <Button 
                         variant="outlined" 
                         startIcon={<OpenInNew />}
-                        onClick={() => {
-                          const lat = booth.location?.coordinates?.[1];
-                          const lng = booth.location?.coordinates?.[0];
-                          if (lat && lng) openInMaps(lat, lng);
-                        }}
+                        onClick={() => openInMaps(booth.address)}
                         sx={{ borderRadius: 0, fontWeight: 800, textTransform: 'none' }}
                       >
                         View on Maps
@@ -169,7 +167,7 @@ const MyArea = () => {
                 ))
               )}
               {booths.length === 0 && !loading && (
-                <Alert severity="info" sx={{ borderRadius: 0 }}>No booths found in this specific search. Try a more specific locality name.</Alert>
+                <Alert severity="info" sx={{ borderRadius: 0 }}>No curated booths found. Try a city, district, or state name.</Alert>
               )}
             </Stack>
           </Grid>
