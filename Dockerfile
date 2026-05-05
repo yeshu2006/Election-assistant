@@ -6,6 +6,9 @@ WORKDIR /app
 COPY client/package*.json ./
 RUN npm install
 
+ARG VITE_GEMINI_API_KEY=""
+ENV VITE_GEMINI_API_KEY=$VITE_GEMINI_API_KEY
+
 COPY client/ ./
 RUN npm run build
 

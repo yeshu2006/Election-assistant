@@ -85,7 +85,8 @@ const MyArea = () => {
               placeholder="Enter village, city, or locality (e.g. Rohini Sector 7, Delhi)"
               value={address}
               onChange={(e) => setAddress(e.target.value)}
-              onKeyPress={(e) => e.key === 'Enter' && handleSearch()}
+              onKeyDown={(e) => e.key === 'Enter' && handleSearch()}
+              inputProps={{ 'aria-label': 'Search city, district, state, or locality' }}
               sx={{ '& .MuiOutlinedInput-root': { borderRadius: 0 } }}
             />
             <Button 
@@ -158,6 +159,7 @@ const MyArea = () => {
                         variant="outlined" 
                         startIcon={<OpenInNew />}
                         onClick={() => openInMaps(booth.address)}
+                        aria-label={`Open ${booth.name} on Google Maps`}
                         sx={{ borderRadius: 0, fontWeight: 800, textTransform: 'none' }}
                       >
                         View on Maps

@@ -30,8 +30,16 @@ const normalizeHistory = (history = []) =>
     .slice(-8);
 
 async function generateContent(model, contents, generationConfig = {}) {
+  if (!GEMINI_API_KEY) {
+    throw new Error('Gemini API key is not configured. Set VITE_GEMINI_API_KEY for this deployment.');
+  }
+
+  const controller = new AbortController();
+  const timeoutId = globalThis.setTimeout(() => controller.abort(), 20000);
+
   const response = await fetch(`${GEMINI_BASE_URL}/${model}:generateContent`, {
     method: 'POST',
+    signal: controller.signal,
     headers: {
       'Content-Type': 'application/json',
       'x-goog-api-key': GEMINI_API_KEY,
@@ -47,7 +55,7 @@ async function generateContent(model, contents, generationConfig = {}) {
         ...generationConfig,
       },
     }),
-  });
+  }).finally(() => globalThis.clearTimeout(timeoutId));
 
   if (!response.ok) {
     let message = 'Gemini request failed';

@@ -93,7 +93,12 @@ const Header = ({ mode }) => {
                 >
                   Home
                 </Button>
-                <IconButton onClick={colorMode.toggleColorMode} color="inherit" sx={{ mx: 1 }}>
+                <IconButton
+                  onClick={colorMode.toggleColorMode}
+                  color="inherit"
+                  aria-label={`Switch to ${mode === 'dark' ? 'light' : 'dark'} mode`}
+                  sx={{ mx: 1 }}
+                >
                   {mode === 'dark' ? <LightMode /> : <DarkMode />}
                 </IconButton>
                 <Button 
@@ -118,10 +123,14 @@ const Header = ({ mode }) => {
             {/* Mobile Actions */}
             {isMobile && (
               <Stack direction="row" spacing={1} alignItems="center">
-                <IconButton onClick={colorMode.toggleColorMode} color="inherit">
+                <IconButton
+                  onClick={colorMode.toggleColorMode}
+                  color="inherit"
+                  aria-label={`Switch to ${mode === 'dark' ? 'light' : 'dark'} mode`}
+                >
                   {mode === 'dark' ? <LightMode /> : <DarkMode />}
                 </IconButton>
-                <IconButton color="inherit" onClick={toggleDrawer(true)}>
+                <IconButton color="inherit" onClick={toggleDrawer(true)} aria-label="Open navigation menu">
                   <MenuIcon />
                 </IconButton>
               </Stack>
@@ -146,7 +155,7 @@ const Header = ({ mode }) => {
       >
         <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mb: 4 }}>
           <Typography variant="h6" sx={{ fontWeight: 900 }}>Navigation</Typography>
-          <IconButton onClick={toggleDrawer(false)}><Close /></IconButton>
+          <IconButton onClick={toggleDrawer(false)} aria-label="Close navigation menu"><Close /></IconButton>
         </Box>
         <List>
           {menuItems.map((item) => (

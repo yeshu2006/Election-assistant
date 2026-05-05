@@ -176,6 +176,9 @@ const Assistant = () => {
           {/* Messages area */}
           <Box 
             ref={scrollRef}
+            role="log"
+            aria-live="polite"
+            aria-label={lang === 'en' ? 'Voting assistant messages' : 'मतदान सहायक संदेश'}
             sx={{ 
               flexGrow: 1, 
               overflowY: 'auto', 
@@ -294,7 +297,13 @@ const Assistant = () => {
               '&:focus-within': { borderColor: 'primary.main', boxShadow: '0 0 0 4px rgba(255,153,51,0.15)' }
             }}>
               <Tooltip title={lang === 'en' ? "Speak in Hindi or English" : "हिंदी या अंग्रेजी में बोलें"}>
-                <IconButton size="small" sx={{ color: 'text.secondary' }}><Mic /></IconButton>
+                <IconButton
+                  size="small"
+                  sx={{ color: 'text.secondary' }}
+                  aria-label={lang === 'en' ? 'Voice input unavailable' : 'वॉइस इनपुट उपलब्ध नहीं है'}
+                >
+                  <Mic />
+                </IconButton>
               </Tooltip>
               <TextField
                 fullWidth
@@ -304,13 +313,14 @@ const Assistant = () => {
                 placeholder={lang === 'en' ? "Ask anything..." : "कुछ भी पूछें..."}
                 value={input}
                 onChange={(e) => setInput(e.target.value)}
-                onKeyPress={(e) => e.key === 'Enter' && !e.shiftKey && (e.preventDefault(), handleSend())}
+                onKeyDown={(e) => e.key === 'Enter' && !e.shiftKey && (e.preventDefault(), handleSend())}
                 InputProps={{ disableUnderline: true }}
                 sx={{ '& .MuiInputBase-input': { fontWeight: 500, fontSize: '0.95rem', color: 'text.primary' } }}
               />
               <IconButton 
                 onClick={() => handleSend()}
                 disabled={loading || !input.trim()}
+                aria-label={lang === 'en' ? 'Send message' : 'संदेश भेजें'}
                 sx={{ 
                   bgcolor: 'primary.main', color: 'white', 
                   width: 40, height: 40, 

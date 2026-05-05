@@ -98,13 +98,22 @@ const FloatingChatbot = () => {
                 </Typography>
               </Box>
             </Box>
-            <IconButton size="small" onClick={() => setOpen(false)} sx={{ color: '#fff' }}>
+            <IconButton
+              size="small"
+              onClick={() => setOpen(false)}
+              aria-label="Close VoteSmart chat"
+              sx={{ color: '#fff' }}
+            >
               <Close fontSize="small" />
             </IconButton>
           </Box>
 
           {/* Messages Container */}
-          <Box sx={{ 
+          <Box
+            role="log"
+            aria-live="polite"
+            aria-label="VoteSmart chat messages"
+            sx={{ 
             flexGrow: 1, 
             p: 2.5, 
             overflowY: 'auto', 
@@ -122,7 +131,8 @@ const FloatingChatbot = () => {
               background: isDark ? 'rgba(255,255,255,0.1)' : 'rgba(0,0,0,0.1)',
               borderRadius: '3px',
             },
-          }}>
+          }}
+          >
             {history.map((msg, i) => (
               <Box key={i} sx={{ alignSelf: msg.role === 'user' ? 'flex-end' : 'flex-start', maxWidth: '90%' }}>
                 <Box sx={{ 
@@ -206,7 +216,7 @@ const FloatingChatbot = () => {
                 placeholder="Ask anything..."
                 value={message}
                 onChange={(e) => setMessage(e.target.value)}
-                onKeyPress={(e) => {
+                onKeyDown={(e) => {
                   if (e.key === 'Enter' && !e.shiftKey) {
                     e.preventDefault();
                     handleSend();
@@ -233,6 +243,7 @@ const FloatingChatbot = () => {
               <IconButton 
                 onClick={handleSend}
                 disabled={loading || !message.trim()}
+                aria-label="Send chat message"
                 sx={{
                   bgcolor: 'primary.main',
                   color: '#fff',
@@ -253,6 +264,7 @@ const FloatingChatbot = () => {
 
       <Fab 
         onClick={() => setOpen(!open)}
+        aria-label={open ? 'Close VoteSmart chat' : 'Open VoteSmart chat'}
         sx={{
           bgcolor: 'primary.main',
           color: '#fff',
